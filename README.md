@@ -11,7 +11,7 @@ When you find yourself in front of a problem, decision or a system, you can ask 
 |     |     |
 | --- | --- |
 | **Question** | **Recommended tool** |
-| Am I only thinking of ideal solutions? | [Inversion](./problem_solving/inversion) |
+| Am I only thinking of ideal solutions? | [Inversion](./problem_solving/inversion.md) |
 | Can I break this problem down? | [Issue trees](/problem_solving/issue_trees) |
 | Do I need an innovative solution to a complex problem? | [First principles](/problem_solving/first_principles) |
 | Am I solving the right problem? | [Abstraction laddering](/problem_solving/abstraction_laddering) |
