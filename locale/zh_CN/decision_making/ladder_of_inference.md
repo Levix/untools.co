@@ -1,96 +1,97 @@
-# Ladder of inference
+# 推论阶梯
 
-**Avoid jumping to conclusions. Make decisions based on reality.**
+**基于现实情况出发，避免过早下结论。**
 
-We act and make decisions based on the conclusions we make. But we tend to jump to these conclusions and skip important parts of the reasoning process.
+我们根据自己的结论采取行动并做出决定，但我们倾向于直接得出这些结论，而忽略了过程中的重要部分。
 
-Ladder of inference, developed by a former Harvard professor Chris Argyris, is a tool that helps you fill the gaps in your thinking and make decisions based on reality. It's also helpful to challenge the thinking of others and reach better conclusions together.
+由前哈佛大学教授 Chris Argyris 开发的 “推论阶梯”（Ladder of inference）是一种工具，可以帮助你填补思维中的空白，并根据现实情况做出决定。挑战别人的想法，共同得出更好的结论也是有帮助的。
 
-The ladder
+阶梯
 ----------
 
 There are 7 steps on the ladder that represent our mental processes. Here's what it looks like from the bottom up:
+阶梯上有 7 个步骤代表我们的心理过程，下面是它从下往上看的情况：
 
-1.  Available data
-    * This is the reality we are able to observe.
-2.  Selected data
-    * We select what we pay attention to based on our prior experiences and existing beliefs. We don't have the mental capacity to take in every piece of data available, so we have to make this selection.
-3.  Interpretations
-    * We give facts meaning. We paraphrase what we see or hear to make sense of it.
-4.  Assumptions
-    * Based on our interpretation, we make our own personal assumptions.
-5.  Conclusions
-    * We draw conclusions from our assumptions.
-6.  Beliefs
-    * Our beliefs are then developed from the conclusions we make.
-7.  Actions
-    * Finally, we take actions that are rooted in what we believe to be true.
+1.  可用数据
+    * 这是我们能够观察到的现实。
+2.  选定数据
+    * 我们根据以前的经验和现有的信念来选择我们关注的内容。我们没有足够的精力来收集每一个可用的数据，所以我们必须做出选择。
+3.  解释
+    * 我们给事实赋予意义，转述我们看到或听到的东西来理解它。
+4.  假设
+    * 基于我们的解释，我们做出了假设。
+5.  结论
+    * 我们从假设中得出结论。
+6.  信念
+    * 我们的信念是由我们得出的结论发展而来的。
+7.  行动
+    * 最后，我们基于信念采取行动。
 
-These processes usually happen unconsciously and very quickly in our brain. Applying this ladder consciously allows you to take a step back and see where you're jumping to conclusions.
+这些过程通常在我们的大脑中无意识地快速发生。有意识地运用这个阶梯，可以让你退后一步，看看你从哪里得出结论。
 
-How to use it
+如何使用它？
 -------------
 
-Whenever you make a conclusion about something or are making decisions based on your conclusions, it's good to stop and question your reasoning.
+每当你对某件事情作出结论或根据你的结论作出决定时，最好停下来质疑你的推断。
 
 ![The Ladder of Inference](./images/ladder_of_inference_1.png)
 
-First, identify on which step of the ladder you currently are. Are you about to take action and you're not sure if it's the right one? Or perhaps you're aware of some of the assumptions you're making?
+首先，确定你目前处于阶梯的哪一步，你是否准备采取行动，但又不确定这么做是否正确，或许你意识到了你所做的一些假设？
 
-Then work your way down before building your reasoning up again. To work your way down the ladder, use these guiding questions for each step:
+然后，在再次建立起你的推理之前，沿着梯子往下走，每一步都要使用这些指导性问题：
 
-* Actions:
-    * Why do I believe this to be the right action? What are some alternative options?
-* Beliefs:
-    * What beliefs do I hold about this? What conclusions are they based on?
-* Conclusions:
-    * Why did I conclude this? What are my assumptions there?
-* Assumptions:
-    * Are my assumptions valid? Why am I assuming this? 
-* Interpretations:
-    * Am I looking at this data objectively? What other meanings could they have?
-* Selected data:
-    * What did I ignore or didn't pay attention to? Are there other sources of data I didn't consider?
+* 行动：
+    * 为什么我认为这是正确的行动？有什么其他选择吗？
+* 信念：
+    * 我对此持有什么看法？它们是基于什么结论？
+* 结论：
+    * 我为什么会得出这样的结论？我的假设是什么？
+* 假设：
+    * 我的假设有效吗？我为什么要这样假设？ 
+* 解释：
+    * 我是否客观地看待这些数据？它们还有什么其他含义？
+* 选定数据：
+    * 我忽略了什么或者没有注意到什么？还有其他我没有考虑到的数据来源吗？
 
-As you answer these, you may find that your reasoning changes along the way and that's good. When you reach the bottom of the ladder, work your way back up again, this time more consciously and deliberately.
+当你回答这些问题时，你可能会发现你的推理方式发生了变化，当你到达梯子的底部时，再往上走，这一次要更有意识地、刻意地走。
 
-Example
+例子
 -------
 
-Let's see how applying the ladder of inference looks like on a practical example.
+让我们看看如何在实际的例子中应用推论阶梯。
 
-Suppose I'm managing a team of developers. One of them hasn't been performing well recently. He's been missing deadlines and several projects were delayed because of this. I conclude he's not cut out for the job and decide to fire him.
+假设我正在管理一个开发团队，最近有一个人表现不佳，他一直项目延期，有几个项目因此而被推迟了，我断定他不适合这份工作，决定解雇他。
 
-However, I stop and ask myself: Is this the right thing to do? I can now apply the ladder of inference to unpack my thinking and perhaps make a better decision. I ask myself the guiding questions:
+然而，我停下来问自己，这样做正确吗？我可以运用推论阶梯来理清我的思路，也许可以做出更好的决定，我问自己一些指导性的问题：
 
-* Why do I believe that firing this person is the right action? Because it's clear to me he's not right for the job.
-* What conclusions is this belief based on? That he's not a good developer.
-* What are my assumptions here? I assumed that his recent results are representative of his qualities (or lack thereof).
-* Why am I assuming this? Because missed deadlines mean he's not efficient.
-* What other meanings could the data I'm looking at have? Missed deadlines might also mean the deadlines are unreasonable or he's taking extra time to deliver quality code.
-* Are there other sources of data I didn't consider? I haven't asked him directly yet. When I do, I might find out the real reason he's been missing deadlines.
+* 为什么我认为解雇这个人是正确的选择？因为我很清楚他不适合这份工作。
+* 这种信念是基于什么结论？他不是一个好的开发者。
+* 我的假设是什么？我认为他最近的表现代表了他的开发水平(或缺乏开发能力)。
+* 我为什么会这样假设？因为项目延期意味着他的工作效率不高。
+* 我所看到的数据还有什么其他含义吗？错过项目最后期限也可能意味着最后期限设置不合理的，或者他可能需要花额外的时间来交付高质量的代码。
+* 是否有其他我没有考虑的数据来源？我没有直接问他，当我这样做时，我可能会发现他一直延期的真正原因。
 
-This is a simplified example but it shows the kind of jumping to conclusions I want to avoid: _missed deadlines → inefficient → not a good developer → should be fired_. By unpacking my thinking, I can look at the situation more objectively and I may discover different reasons for what's happening: perhaps the deadlines are too tight or he's going through some personal issues. Neither of which should be a reason to fire him.
+这是一个简单例子，但它展示了我想要避免那种草率得出的结论：_错过最后期限 → 效率低下 → 不是一个好的开发者 → 应该被解雇_。通过整理我的思路，我可以更客观地看待问题，我可能会发现发生这种情况的不同原因：也许最后期限太赶，或者他正在经历一些个人问题，这两种情况都不应该成为解雇他的理由。
 
-The ladder of influence has just helped me avoid making a bad and premature decision.
+影响力阶梯帮我避免了一个错误的且不成熟的决定。
 
-Put it to practice
+实践出真知
 ------------------
 
-I created a handy worksheet to help you put this tool into practice. It comes with a simple how-to guide including an example.
+我创建了一个简易的工作表来帮助你学会使用这个工具，它带有一个简单的操作指南，并且包含一个例子。
 
-Print out the PDF or fill it in digitally and use it to make better decisions:
+打印 PDF 或以数字形式填写，能够更好地理解系统：
 
-[Get the worksheet](https://gumroad.com/l/untools-worksheets)
+[获取工作表](https://gumroad.com/l/untools-worksheets)
 
-Preview of the worksheet and guide:
+预览工作表和指南：
 
-![Ladder of inference worksheet and a guide](./images/ladder_of_inference_2.png)
+![推论阶梯工作表和指南](./images/ladder_of_inference_2.png)
 
-### Sources
+### 资料
 
-["The Fifth Discipline: The Art & Practice of The Learning Organization" by Peter Senge](https://www.goodreads.com/book/show/255127.The_Fifth_Discipline)
+[《The Fifth Discipline: The Art & Practice of The Learning Organization》作者：Peter Senge](https://www.goodreads.com/book/show/255127.The_Fifth_Discipline)
 
-["Rethinking thinking" by Trevor Maber](https://www.youtube.com/watch?v=KJLqOclPqis)
+[《Rethinking thinking》作者：Trevor Maber](https://www.youtube.com/watch?v=KJLqOclPqis)
 
-["The Ladder of Inference" on Systems Thinker](https://thesystemsthinker.com/the-ladder-of-inference/)
+[系统思想家的“推论阶梯”](https://thesystemsthinker.com/the-ladder-of-inference/)
