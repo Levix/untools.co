@@ -1,56 +1,61 @@
-# Six Thinking Hats
+# 六顶思考帽
 
 
-**Look at a decision from different perspectives**
+**从不同的角度看决定**
 
-Making the best decisions often requires looking at them through different lenses so that you don't overlook an important aspect. Six Thinking Hats, created by Edward de Bono, is a tool for doing exactly that. You can use it for your own thinking or in a group where everyone can represent a different perspective.
+做出最好的决定往往需要从不同的视角来看待它们，这样你就不会忽略某一个重要的方面。由 Edward de Bono 创建的“六顶思考帽”正是这样一种工具，你可以把它用于你自己的思考，或者在一个小组里，每个人都可以发表不同的观点。
 
-How to use it
+如何使用它？
 -------------
 
-Each thinking hat represents one lens/perspective/style of thinking. Try "wearing" different hats and look at the decision through each.
+每一顶思考帽都代表了一种思考的角度、视角、风格，试着“戴上”不同的帽子，通过每一顶帽子来看待这个决定。
 
-If you're in a group, you can assign the hats to everyone to get a balanced discussion. Or you can go through different perspectives as a whole group.
+如果你在一个小组里，你可以把帽子分配给每个人，这样讨论就平衡了，或者你可以作为一个整体从不同的角度来看问题。
 
-Here's what each hat is about:
+以下是每顶帽子的含义：
 
-* **🟡 Yellow hat** is about **positivity**. Try seeing the benefits of this decision and what opportunities it opens.
-* **🟢 Green hat** represents **creativity**. Let your mind run free and generate ideas without censoring them. Try coming up with creative options and solutions. Tools like the [Productive Thinking Model](https://untools.co/productive-thinking-model) or [First Principles](https://untools.co/first-principles) can help you.
-* **🔴 Red hat** is about **emotions**. How do you feel about this? Use your intuition and gut feelings. Try to see how others might react emotionally. It's a great way to bring emotions into an otherwise rational process.
-* **⚪️ White hat** makes you focus on the **data**. Analyze the available data and trends. This represents a very rational approach.
-* **⚫️ Black hat** represents looking at the **downside**. What are the worst-case scenarios? Take a defensive approach, imagine any potentially negative outcomes, see what might not work. [Inversion](https://untools.co/inversion) might be a helpful tool here.
-* **🔵 Blue hat** is for controlling the **process**. Especially in meetings, it's good to be able to step in when there's no progress and enable the group to move forward (e.g. by shifting the thinking or discussion to a different hat/perspective).
+* **黄色帽子**代表**积极**。试着看到这个决定带来的好处和机会。
+
+* **绿色帽子**代表**创造力**。让你的思想天马行空，产生想法，而不对其约束，试着想出有创意的方案和解决办法。像[生产性思维模型](../problem_solving/productive_thinking_model.md)或[第一性原理](../problem_solving/first_principles.md)这样的工具可以帮助你。
+
+* **红色帽子**是关于**情绪**的。你对此有什么感觉？利用你的直觉和内心感受，试着看看别人可能会有什么情绪上的反应，这是一个将情感带入理性过程的好方法。
+
+* **白色帽子**让你专注于**数据**。基于现有数据和趋势分析，是一种非常理性的方法。
+
+* **黑色帽子**代表关注其**弊端**。最坏的情况是什么？采取防御性的方法，想象任何潜在的负面影响，看看什么可能不起作用。[反转思维](../problem_solving/inversion.md)在这里可能是一个有用的工具。
+
+* **蓝色帽子**用于控制**过程**。特别是在会议中，当没有进展的时候，能够介入并推动小组继续讨论是很好的（例如，通过转移思维从不同的帽子/角度进行讨论）。
 
 ![Illustration of the Six Thinking Hats: Yellow for positivity, Green for creativity, Red for emotions, White for data, Black for negativity and Blue for control.](./images/six_thinking_hats_1.png)
 
-Example
+例子
 -------
 
-Let's see how using this tool might play out in an example scenario. Suppose you're in a management meeting to decide if you should introduce a new product to your portfolio to battle declining sales. You use the Six Thinking Hats tool to make sure the decision is considered from all possible angles.
+让我们看看在示例场景中如何使用这个工具，假设你正在参加管理会议，决定是否将一款新产品引入自己的产品矩阵当中，来应对销售下滑的局面。你使用“六顶思考帽”工具来确保你的决策是从所有可能的角度考虑的。
 
-Starting with the yellow hat, you discuss the sizable chunk of the market that this new product might cater to. It's a big opportunity for capturing a lot of revenue.
+从黄色帽子开始，你讨论这个新产品可能会存在相当大的市场份额，这是一个获得大量收入的绝佳机会。
 
-You switch to the black hat to look at possible downsides: what if the new product cannibalizes our existing products? What if it doesn't offer enough value for people to buy it?
+你改用黑色帽子来研究新产品可能存在的缺点：如果它取代了我们现有的产品怎么办？如果它不能提供足够的价值让人们购买它呢？
 
-A person wearing the white hat points out that the data you have about the market shows several unmet needs. It also shows that the declining sales of the existing products signal a trend that the market as a whole is moving to different solutions.
+一个戴着白色帽子的人指出，基于市场数据显示了一些未被满足的需求，数据还表明，现有产品的销量下降预示着整个市场正在向不同的解决方案发展的趋势。
 
-Wearing the yellow hat again, you see that the unmet needs in the market represent a solid opportunity and it's supported by data. Considering the possible downsides, you ask: How might we make sure the new product offers enough value?
+再次戴上黄色帽子，你看到市场上未被满足的需求代表着一个可靠的机会，它有足够的数据支撑，考虑到可能的缺点，你会问：我们如何确保新产品提供足够的价值？
 
-You put on the green hat and generate ideas for how you might prototype the new product and test its value with people.
+你戴上绿色帽子，产生新产品原型的想法，并与用户一起测试它的价值。
 
-Because the meeting has been running for a while now, the facilitator wearing the blue hat suggests postponing the decision until the new product is validated with people.
+由于会议已经进行了一段时间，戴着蓝色帽子的主持人建议推迟做决策，直到新产品得到用户的肯定。
 
-The group decides to wear the red hat to do a check how everyone feels about this plan. People agree that it's a high-stakes decision and it feels right to lower the risk before making the decision. They're less anxious about it now.
+小组决定戴上红色帽子，看看大家对这个计划的看法，大家都同意这是个高风险的决定，在做决定之前降低风险是明确的，他们现在没那么担心了。
 
-In this example, the group arrived at a reasonable next step toward making this decision. Using the Six Thinking Hats, every perspective was heard and the outcome was made possible by discussing the different perspectives.
+在这个例子中，团队达成了合理的下一步决定，使用六顶思考帽，每一种观点都能被听到，通过讨论不同的观点，使结果成为可能。
 
-Key takeaway
+关键收获
 ------------
 
-Six Thinking Hats is a tool that allows you to consider a decision or problem from different angles. It enables you to deliberately see aspects you might otherwise overlook, making your decision better and more resilient in the end.
+六顶思考帽是一个工具，可以让你从不同的角度考虑一个决定或问题，它能让你有意识地看到可能忽略问题的某个方面，最终使你的决定更好、更具韧性。
 
-If you want to find out more about the Six Thinking Hats, Edward de Bono's book with the same title is the best place.
+如果你想了解更多关于六顶思考帽的知识，Edward de Bono's 的同名书籍是最好的选择。
 
-### Sources
+### 资料
 
-["Six Thinking Hats" by Edward de Bono](https://www.goodreads.com/book/show/97030.Six_Thinking_Hats)
+[《六顶思考帽》作者：Edward de Bono](https://www.goodreads.com/book/show/97030.Six_Thinking_Hats)
