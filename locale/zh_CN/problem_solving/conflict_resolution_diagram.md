@@ -1,12 +1,12 @@
-# Conflict Resolution Diagram
+# 冲突解决图
 
-**Find win-win solutions to conflicts**
+**找到冲突的双赢解决方案**
 
-Handling conflicts carefully is important. Conflict Resolution Diagram (also called "Evaporating Cloud") is a tool that will help you resolve them peacefully while making sure that needs of both sides are met.
+谨慎处理冲突是很重要的，冲突解决图（也叫“消雾法”）是一个工具，它可以帮助你和平地解决冲突，同时确保双方的需求得到满足。
 
-It's one of the thinking tools developed as part of the Theory of Constraints by Eliyahu Goldratt. Let's see how it works.
+这是 Eliyahu Goldratt 的约束理论发展出来的思维工具之一，让我们看看它是如何工作的。
 
-How to use it
+如何使用它？
 -------------
 
 The best time to use this tool is when you run into a conflict that seems impossible to resolve by accepting the proposal of either side. This can be a conflict with others but also internal. It can be professional or personal. You can draw the diagram on a whiteboard, piece of paper or run through it in your head.
