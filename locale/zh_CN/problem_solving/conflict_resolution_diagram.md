@@ -1,35 +1,35 @@
-# Conflict Resolution Diagram
+# 冲突解决图
 
-**Find win-win solutions to conflicts**
+**找到冲突的双赢解决方案**
 
-Handling conflicts carefully is important. Conflict Resolution Diagram (also called "Evaporating Cloud") is a tool that will help you resolve them peacefully while making sure that needs of both sides are met.
+谨慎处理冲突是很重要的，冲突解决图（也叫“消雾法”）是一个工具，它可以帮助你和平地解决冲突，同时确保双方的需求得到满足。
 
-It's one of the thinking tools developed as part of the Theory of Constraints by Eliyahu Goldratt. Let's see how it works.
+这是 Eliyahu Goldratt 的约束理论发展出来的思维工具之一，让我们看看它是如何工作的。
 
-How to use it
+如何使用它？
 -------------
 
-The best time to use this tool is when you run into a conflict that seems impossible to resolve by accepting the proposal of either side. This can be a conflict with others but also internal. It can be professional or personal. You can draw the diagram on a whiteboard, piece of paper or run through it in your head.
+使用这个工具的最佳时机是当你遇到一个冲突而它似乎不可能通过接受任何一方的建议来解决，这可能是与他人的冲突，但也可能是内部的冲突，它可以是专业的，也可以是私人的，你可以在白板上、纸上画出这个图，也可以在脑海中快速想出那个图。
 
-The diagram is very simple and consists of three parts:
+这张图非常简单，由三部分组成：
 
-* Demands/proposals of the opposing sides: these are usually mutually exclusive which is what creates the conflict.
-* Underlying needs or requirements of both sides
-* Shared goal or objective that's behind the needs
+* 对立双方的要求/建议：这些通常是互斥的，这就是造成冲突的原因
+* 双方的基本需求或要求
+* 需求背后的共同目标或目的
 
 ![Conflict Resolution Diagram](./images/conflict_resolution_diagram_1.png)
 
-In this case, you work the diagram backwards – from right to left.
+在这种情况下，你需要反向操作图表——从右到左。
 
-1.  Identify what each side is arguing for – what are the demands or proposals.
-    * Ask: What does the other side want to do? What do I want to do?
-2.  Define the need that's behind each side's position.
-    * Ask: What needs are satisfied by the proposal of each side?
-3.  Find what's the shared goal:
-    * Ask: What will be achieved by meeting the needs of both sides?
-    * This is the most critical part. There's usually something that both sides want to achieve on a higher level but have different views about how to do it. Acknowledge that you're on the same team to achieve that objective.
+1.  确定双方的论点是什么——要求或建议是什么。
+    * 问：对方想做什么？我想做什么？
+2.  明确双方立场背后的需求。
+    * 问：双方的提议满足了哪些需求？
+3.  找出共同的目标：
+    * 问：满足双方的需求会有什么好处？
+    * 这是最关键的部分，通常双方都想在更高的层次上达成一些共识，但对如何去做有不同的看法，要承认你们是在同一个团队中实现这个目标的。
 
-Identifying the shared goal is necessary for finding a win-win solution.
+确定共同的目标对于找到双赢的解决方案是必要的。
 
 Discuss any assumptions that are behind the original proposals – this usually shines the light on the mutual exclusivity that created the conflict.
 
