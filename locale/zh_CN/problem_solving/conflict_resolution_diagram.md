@@ -9,69 +9,69 @@
 如何使用它？
 -------------
 
-The best time to use this tool is when you run into a conflict that seems impossible to resolve by accepting the proposal of either side. This can be a conflict with others but also internal. It can be professional or personal. You can draw the diagram on a whiteboard, piece of paper or run through it in your head.
+使用这个工具的最佳时机是当你遇到一个冲突而它似乎不可能通过接受任何一方的建议来解决，这可能是与他人的冲突，但也可能是内部的冲突，它可以是专业的，也可以是私人的，你可以在白板上、纸上画出这个图，也可以在脑海中快速想出那个图。
 
-The diagram is very simple and consists of three parts:
+这张图非常简单，由三部分组成：
 
-* Demands/proposals of the opposing sides: these are usually mutually exclusive which is what creates the conflict.
-* Underlying needs or requirements of both sides
-* Shared goal or objective that's behind the needs
+* 对立双方的要求/建议：这些通常是互斥的，这就是造成冲突的原因
+* 双方的基本需求或要求
+* 需求背后的共同目标或目的
 
 ![Conflict Resolution Diagram](./images/conflict_resolution_diagram_1.png)
 
-In this case, you work the diagram backwards – from right to left.
+在这种情况下，你需要反向操作图表——从右到左。
 
-1.  Identify what each side is arguing for – what are the demands or proposals.
-    * Ask: What does the other side want to do? What do I want to do?
-2.  Define the need that's behind each side's position.
-    * Ask: What needs are satisfied by the proposal of each side?
-3.  Find what's the shared goal:
-    * Ask: What will be achieved by meeting the needs of both sides?
-    * This is the most critical part. There's usually something that both sides want to achieve on a higher level but have different views about how to do it. Acknowledge that you're on the same team to achieve that objective.
+1.  确定双方的论点是什么——要求或建议是什么。
+    * 问：对方想做什么？我想做什么？
+2.  明确双方立场背后的需求。
+    * 问：双方的提议满足了哪些需求？
+3.  找出共同的目标：
+    * 问：满足双方的需求会有什么好处？
+    * 这是最关键的部分，通常双方都想在更高的层次上达成一些共识，但对如何去做有不同的看法，要承认你们是在同一个团队中实现这个目标的。
 
-Identifying the shared goal is necessary for finding a win-win solution.
+确定共同的目标对于找到双赢的解决方案是必要的。
 
-Discuss any assumptions that are behind the original proposals – this usually shines the light on the mutual exclusivity that created the conflict.
+讨论原始提议背后的任何假设——这通常会揭示出导致冲突的互斥性。
 
-From here, you can build up a new solution. This time with focus on the shared goal and satisfying the needs of both sides.
+从这里，你可以建立起一个新的解决方案，这一次的重点是共同的目标和满足双方的需求。
 
-And that's why the conflict can be resolved:
+而这就是为什么冲突可以得到解决：
 
-1.  peacefully: by looking for what unites both sides.
-2.  and productively: by working toward a win-win solution that helps achieve the shared goal.
+1.  和平的方式：寻找双方达成共识的因素。
+2.  并富有成效：通过努力实现双赢的解决方案，帮助实现共同目标。
 
-Example
+例子
 -------
 
-Let's look at how this could be used in practice. Say you're debating redesigning your product website with your colleague. You're against the project but your colleague is pushing for it. You've been discussing this for an hour without any result. To move on, you suggest to create this conflict resolution diagram.
+让我们看看如何在实践中使用它，假设你正在和同事讨论重新设计你的产品网站，而你反对这个项目，但你的同事却在推动它。你已经讨论了一个小时，但没有任何结果，为了能够继续下去，您建议创建这个冲突解决图。
 
-First, you write down both sides of the argument: redesigning vs not. 
+首先，你写下争论的关键点：重新设计与不重新设计。 
 
-After that, you identify the need behind each approach by discussing why exactly each approach is better. You find out that your colleague needs the website to have a better conversion rate. You're arguing against the project because you want to minimize waste of resources and you see a big risk in such a big project.
+之后，你通过讨论每一种方法到底为什么更好，来确定每种方法背后的需求。你发现你的同事需要这个网站有更好的转化率，你反对这个项目，因为你想尽量减少资源的浪费，而且你认为这样一个大项目存在很大的风险。
 
-Finally, you work together to identify what's the goal you both want to achieve by meeting those needs. You discover that you both want to meet the financial goals of the company. The shared objective is running a profitable business.
+最后，你们一起确定通过满足这些需求，你们都想达到的目标是什么。你们发现，你们都想达到公司的财务目标，共同的目标是经营一家盈利的企业。
 
 ![](./images/conflict_resolution_diagram_2.png)
 
-This is great progress as now you have something in common to work with. By working from what you have in common, you are able to resolve the conflict and come up with a solution that supports your goal and meets both of your needs: such as running small targeted experiments on your website that can move the needle on conversion rate without using a lot of resources.
+这是一个巨大的进步，因为现在你们有了共同的工作目标，通过利用你们的共同目标来解决冲突，并提出一个解决方案，既支持你的目标，又满足你的两个需求：例如在你的网站上运行有针对性的小型实验，这可以在不使用大量资源的情况下提高转化率。
 
-It's a simplified example but shows the great benefit of using the conflict resolution diagram: finding win-win solutions.
+这是一个简单的例子，展示了使用冲突解决图的巨大好处：找到双赢的解决方案。
 
-Put it to practice
+实践出真知
 ------------------
 
-I created a handy worksheet to help you put this tool into practice. It comes with a simple how-to guide including an example.
+我创建了一个简易的工作表来帮助你学会使用这个工具，它带有一个简单的操作指南，并且包含一个例子。
 
-Print out the PDF or fill it in digitally and use it to make better decisions:
+打印 PDF 或以数字形式填写，能够更好地解决问题：
 
-[Get the worksheet](https://gumroad.com/l/untools-worksheets)
+[获取工作表](https://gumroad.com/l/untools-worksheets)
 
-Preview of the worksheet and guide:
+预览工作表和指南：
 
 ![Preview of the Conflict Resolution Diagram worksheet](./images/conflict_resolution_diagram_3.png)
 
-### Sources
+### 资料
 
-[The Logical Thinking Process by H. William Dettmer](https://www.goodreads.com/book/show/2147388.The_Logical_Thinking_Process)
+[“逻辑思维过程”作者：H. William Dettmer](https://www.goodreads.com/book/show/2147388.The_Logical_Thinking_Process)
 
-['The Punk Strategy Guide to the Logical Thinking Process' on Forte Labs Blog](https://fortelabs.co/blog/the-punk-strategy-guide-to-the-logical-thinking-process/)
+[Forte Labs 博客上的 “Punk Strategy Guide to The Logical Thinking Process”](https://fortelabs.co/blog/the-punk-strategy-guide-to-the-logical-thinking-process/)
