@@ -1,96 +1,100 @@
-# Tools for better thinking
+# 改善思维的工具
 
-**Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.**
+**收集思维工具以及框架来帮助你解决问题、做出决策并理解系统。**
 
-# How to choose the right thinking tool
+# 官网
 
-## **Prompt questions**
+[Tools for better thinking](https://untools.co/)
 
-When you find yourself in front of a problem, decision or a system, you can ask yourself these prompt questions. They will point you to the right tool for you.
+# 如何选择正确的思维工具
+
+## **指引**
+
+当你发现自己面对难题、决策或一个系统时，你可以根据以下指引选择适合自己的思维工具。
 
 |     |     |
 | --- | --- |
-| **Question** | **Recommended tool** |
-| Am I only thinking of ideal solutions? | [Inversion](/problem_solving/inversion.md) |
-| Can I break this problem down? | [Issue trees](/problem_solving/issue_trees.md) |
-| Do I need an innovative solution to a complex problem? | [First principles](/problem_solving/first_principles.md) |
-| Am I solving the right problem? | [Abstraction laddering](/problem_solving/abstraction_laddering.md) |
-| How do I come up with a creative solution? | [Productive Thinking model](/problem_solving/productive_thinking_model.md) |
-| What kind of decision am I making? | [Hard choice model](/decision_making/hard_choice_model.md) |
-| Which option from these is the best one? | [Decision matrix](/decision_making/decision_matrix.md) |
-| What would be the long-term consequences of this decision? | [Second-order thinking](/decision_making/second_order_thinking.md) |
-| Am I jumping to conclusions? | [Ladder of inference](/decision_making/ladder_of_inference.md) |
-| How should I respond to this situation? | [Cynefin framework](/decision_making/cynefin_framework.md) |
-| What should I be working on right now? | [Eisenhower matrix](/decision_making/eisenhower_matrix.md) |
-| How does this system work? | [Connection circles](/systems_thinking/connection_circles.md) |
-| Why is X happening? | [Iceberg model](/systems_thinking/iceberg_model.md) |
+| **问题** | **推荐工具** |
+| 我只考虑理想的解决方案吗？ | [反转思维定势](./problem_solving/inversion.md) |
+| 我可以拆解这个问题吗？ | [议题树](./problem_solving/issue_trees.md) |
+| 我需要一个创新的解决方案去解决某个复杂的问题吗？ | [第一性原理](./problem_solving/first_principles.md) |
+| 我解决的问题是正确的吗? | [抽象阶梯](./problem_solving/abstraction_laddering.md) |
+| 我怎样才能想出一个创造性的解决方案？ | [生产性思维模型](./problem_solving/productive_thinking_model.md) |
+| 我正在做什么样的决定？ | [困难选择模型](./decision_making/hard_choice_model.md) |
+| 哪一个选项是最优的？ | [决策矩阵](./decision_making/decision_matrix.md) |
+| 这一决定的长期后果是什么？ | [二阶思维](./decision_making/second_order_thinking.md) |
+| 我是不是过早下结论了？ | [推论阶梯](./decision_making/ladder_of_inference.md) |
+| 我该如何应对这种情况？ | [Cynefin 框架](./decision_making/cynefin_framework.md) |
+| 我现在应该做什么？ | [艾森豪威尔矩阵](./decision_making/eisenhower_matrix.md) |
+| 这个系统是如何运作的？ | [连接圈](./systems_thinking/connection_circles.md) |
+| 为什么 X 会发生？ | [冰山模型](./systems_thinking/iceberg_model.md) |
 
-## **Problem-solving tools**
+## **问题解决工具**
 
-### **Avoid worst scenarios**
+### **避免最坏的情况**
 
-If you're working on a high-stakes problem, you might want to focus on specifically avoiding bad solutions.
+当你面对一个高风险的问题时，你可能会集中精力来规避糟糕的方案。
 
-**[Inversion](/problem_solving/inversion.md)** is a tool to make you see the problem from a different angle and avoid possible mistakes or bad outcomes.
+**[反转思维](./problem_solving/inversion.md)** 工具可以帮助你从不同角度看待问题，从而避免可能发生的错误或产生糟糕的结果。
 
-### **Break the problem down**
+### **问题拆解**
 
-It often helps to break big and complex problems into smaller, more manageable ones.
+它通常有助于将大而复杂的问题分解为更小、更易于管理的问题。
 
-**[Issue trees](/problem_solving/issue_trees.md)** allow you to do this in a systematic way. It's great to tackle the problem in a "divide and conquer fashion".
+**[议题树](./problem_solving/issue_trees.md)** 允许你以系统的方式以及“分而治之”的方式进行问题拆解。
 
-Then there are **[first principles](/problem_solving/first_principles.md)** which focus on identifying the fundamental principles underlying a given problem. You can then build an original solution from these principles rather than from the initial problem statement.
+接着是 **[第一性原理](./problem_solving/first_principles.md)**，其重点是确定一个特定问题背后的基本原理，你可以基于这些原理而不是从最初的问题陈述中构建原始解决方案。
 
-### **Frame the problem differently**
+### **用不同的方式来阐述问题**
 
-**[Abstraction laddering](/problem_solving/abstraction_laddering.md)** will help you find alternative and innovative solutions by defining a the right problem (of which your initial problem might only be a subset of). You can **[get a worksheet](https://gumroad.com/l/untools-worksheets)** to get started with this tool.
+**[抽象阶梯](./problem_solving/abstraction_laddering.md)** 将通过定义正确的问题（你的初始问题可能只是其中的一个子集）来帮助你找到可替代以及创新的解决方案，你可以 **[获取工作表](https://gumroad.com/l/untools-worksheets)** 来开始使用这个工具。
 
-### **Come up with creative solutions**
+### **提出创造性的解决方案**
 
-**[Productive thinking model](/problem_solving/productive_thinking_model.md)** gives you a six-step framework that will help you find creative solutions to the problems you're solving. It does that thanks to structured, critical thinking.
+**[生产性思维模型](./problem_solving/productive_thinking_model.md)** 提供了一个六步框架，可以帮助你找到解决问题的创造性解决方案。它之所以可以做到这一点，要归功于结构化的、批判性的思考。
 
-## **Decision-making tools**
+## **决策工具**
 
-### **Figure out what kind of a decision you're making**
+### **弄清楚你正在做什么样的决定**
 
-**[Hard choice model](/decision_making/hard_choice_model.md)** is for you seeing the type of decision in front of you so that you can move forward with it more efficiently. If it's a no-brainer, you'll know to make the decision quickly rather than correctly. For hard or big decisions, you might need to dig deeper (tools below will help you).
+**[困难选择模型](./decision_making/hard_choice_model.md)** 是为了让你看到面前的决策类型，这样你就可以更有效地做出决定。如果是不费吹灰之力的决定，你会知道要快速地做出决定，而不是正确地做出决定，而对于困难或重大的决策，你可能需要深究（下面的工具会帮助你）。
 
-### **Choose the best option**
+### **选择最优解**
 
-**[Decision matrix](/decision_making/decision_matrix.md)** is great for **weighing up different factors and identifying the best option**. If you're looking for picking a clear winner based on various factors, this tool is for you.
+**[决策矩阵](./decision_making/decision_matrix.md)** 对于 **权衡不同的因素并确定最优解** 是非常有用的，如果你正在寻找基于各种因素的可靠方案，那么此工具非常适合你。
 
-### **Analyze before you commit**
+### **在你确定方案之前进行分析**
 
-**[Second-order thinking](/decision_making/second_order_thinking.md)** will help you **consider a specific option** and what the deeper or **long-term consequences** of choosing it might be.
+**[二阶思维](./decision_making/second_order_thinking.md)** 将帮助你 **考虑一个特定的选项**，以及选择它可能产生的更深层次或 **长期的后果**。
 
-**[Ladder of inference](/decision_making/ladder_of_inference.md)** is another tool to help you see if there's a gap in your thinking before you commit to a decision. With this tool, you'll avoid jumping to conclusions too early and make decisions based on reality.
+**[推论阶梯](./decision_making/ladder_of_inference.md)** 另外一个工具，可以帮助你在做出决定之前查看思维中是否存在误区，有了这个工具，你就可以避免过早下结论，并根据实际情况做出正确的决策。
 
-There are **[worksheets](https://gumroad.com/l/untools-worksheets)** for both of these tools.
+这两个工具都有 **[工作表](https://gumroad.com/l/untools-worksheets)**。
 
-### **Understand the situation before choosing a response**
+### **在选择应对措施之前，先了解情况**
 
-Sometimes, you need a little time to assess the situation so that you can choose the best response. **[Cynefin framework](/decision_making/cynefin_framework.md)** is an excellent tool for that.
+有时你需要花点时间来评估情况，这样才能选择最好的应对方式，**[Cynefin 框架](./decision_making/cynefin_framework.md)** 在这一方面是一个非常不错的工具。
 
-It helps you to **categorize a situation and point you to the most appropriate response**.
+它可以帮助你**对各种情况进行分类，并为你指出最合适的反应**。
 
-### **Prioritize**
+### **确定优先级**
 
-This is really a subset of decision-making: **"What should I be working on right now?"**
+这实际上是决策的一个子集：**“我现在应该做什么？”**
 
-A great prioritization tool is the **[Eisenhower matrix](/decision_making/eisenhower_matrix.md)**. It will enable you to prioritize your actions and tasks by importance and urgency. You can get the **[Eisenhower matrix as a worksheet](https://gumroad.com/l/untools-worksheets)** too.
+**[艾森豪威尔矩阵](./decision_making/eisenhower_matrix.md)** 是一个很好的优先级排序工具，你能够按照重要性和紧迫性来安排你的行动和任务优先级，你也可以将 **[艾森豪威尔矩阵作为工作表](https://gumroad.com/l/untools-worksheets)**。
 
-# **Systems-thinking tools**
+# **系统思维工具**
 
-### **Understand a system**
+### **了解系统**
 
-To **learn more about a system**, I recommend starting with the **[Connection circles](/systems_thinking/connection_circles.md)**.
+要 **了解关于系统的更多信息**，我建议从 **[连接圈](./systems_thinking/connection_circles.md)** 开始入手。
 
-It's a great tool to map different elements of a system or a story and the relationships between them. You can get started with a **[Connection circles worksheet](https://gumroad.com/l/untools-worksheets)**.
+这是一个不错的工具，可以映射出一个系统或故事的不同元素以及它们之间的关系，你可以从 **[连接圈工作表](https://gumroad.com/l/untools-worksheets)** 开始试试手。
 
-**The key benefit of** **connection circles is that they expose feedback loops** (both **[balancing](/systems_thinking/balancing_feedback_loop.md)** and **[reinforcing](/systems_thinking/reinforcing_feedback_loop.md)** loops). You can then move on to learning about those loops to really understand what's going on in the system.
+**连接圈的关键好处在于它暴露了反馈环**（包括 **[平衡](./systems_thinking/balancing_feedback_loop.md)** 和 **[强化](./systems_thinking/reinforcing_feedback_loop.md)** 环），你可以继续学习这些环路，真正了解系统中发生的事情。
 
-### **Uncover causes of events**
+### **揭露事件的起因**
 
-If you're looking to **uncover the root causes of some event**, use the **[Iceberg model](/systems_thinking/iceberg_model.md)**.
+如果你想 **揭开某些事件的根源**，请使用 **[冰山模型](./systems_thinking/iceberg_model.md)**。
 
-It's a four-level model that allows you to see beyond what's obvious and think about the patterns, structures and mental-models that really drive the surface-level events. There's also a handy **[Iceberg model worksheet](https://gumroad.com/l/untools-worksheets)** to help you.
+这是一个四层模型，它让你不只看到表面事物，而是让你思考真正驱动表层事件的模式、结构和心智模型，有一个方便的 **[冰山模型工作表](https://gumroad.com/l/untools-worksheets)** 可以帮助你。

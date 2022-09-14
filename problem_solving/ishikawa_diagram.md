@@ -1,77 +1,77 @@
-# Ishikawa Diagram
+# 石川图
 
-**Identify root causes of problems.**
+**找出问题的根本原因。**
 
-Ishikawa diagram is a great tool to help you solve problems by identifying their root causes. Sometimes called also cause-and-effect or fishbone diagram, it was created by Japanese professor Kaoru Ishikawa. It's especially effective for tackling complex problems.
+石川图是一个很好的工具，可以帮助你通过识别问题的根本原因来解决问题，有时也被称为因果图或鱼骨图，它是由日本教授石川馨创造的，它对解决复杂问题特别有效。
 
 ![Example of an Ishikawa diagram](./images/ishikawa_diagram_1.png)
 
-How to use it
+如何使用它？
 -------------
 
-Building out this diagram consists of few simple steps. This can be done in a group as a workshop but also just as well on your own.
+构建这个图表包含几个简单的步骤，它可以通过小组讨论来完成，也可以自己完成。
 
-#### 1) Define the problem
+#### 1) 定义问题
 
-Start with defining the problem and then drawing a line to the left or right of it (that's up to your preference).
+首先定义问题，然后在它的左边或右边画一条线(这取决于你的偏好)。
 
-The line will be for adding factors in the next step.
+这条线将用于在下一步添加因素。
 
-#### 2) Identify contributing factors or categories
+#### 2) 确定影响因素或类别
 
-List out the factors/categories that could be contributing to the problem you're solving. Plot them along the main line.
+列出可能导致你正在解决问题的因素或类别，将它们沿着主线绘制出来。
 
-You can come up with your own factors or you might use generic categories: People, Equipments, Methods, Measurement, Material and Environment.
+你可以提出你自己的因素，也可以使用一般类别：人（People）、设备（Equipments）、方法（Methods）、测量（Measurement）、物料（Material）和环境（Environment）。
 
-Categorising is very helpful for breaking down complex problems and looking at them from different perspectives.
+分类对于拆解复杂的问题以及从不同角度看问题非常有帮助。
 
-#### 3) Find possible root causes related to each factor
+#### 3) 找到与每个因素相关的可能性根本原因
 
-Ask "Why is this happening?" Write down each idea as a line under the factor it relates to. [First principles](/first-principles) thinking is useful here including the "Five whys" method.
+问“为什么会这样？”，将每个想法写在它所涉及的因素下面，[第一性原理](./first_principles.md)思维在这里很有用，包括“五个为什么”的方法。
 
-Keep in mind that the problem might not have just one root cause but multiple. So it's important to capture everything that might explain the problem, even if just partially.
+请记住，问题的根本原因可能不止一个，而是多个。因此，重要的是要抓住所有可能解释问题的因素，即使只包含部分原因。
 
-At this point, you should have a complete diagram but no definitive answer yet.
+此时，您应该有一个完整的图表，但还没有确定的答案。
 
-#### 4) Analyse the diagram
+#### 4) 分析图表
 
-The most important step is looking at all the possible root causes and analysing them. The diagram now provides a structure for your most important thinking and next steps.
+最重要的一步是寻找所有可能的根本原因并进行分析，现在图表为你最重要的思考以及下一步行动提供了一个框架。
 
-There are many possibilities what you can do at this point. Perhaps you can gather more data/evidence for each root cause candidate or immediately identify the most likely one and quickly try to solve it. This will depend on your specific problems and identified possible causes. 
+在这一点上，你可以做很多可能的事情，也许你可以为每个根本原因收集更多的数据或证据，或是立即确定最有可能的原因并迅速尝试解决它，这取决于你的具体问题和确定的可能原因。
 
-Example
+例子
 -------
 
-Now let's see how to apply this on a practical example.
+现在让我们看看如何将其应用到实际的例子中。
 
-Suppose you're a product manager and have to solve a trend of getting less and less new sign-ups. You start with this definition and then identify contributing factors.
+假设你是一名产品经理，必须解决新注册用户越来越少的趋势，你从这个定义开始，然后确定影响因素。
 
 ![Ishikawa diagram with capture contributing factors](./images/ishikawa_diagram_2.png)
 
-In this example, you identified landing page issues, competition and marketing as factors.
+在本例中，你确定了登录页面问题、竞争和营销等因素。
 
-Now let's find specific possible root causes under each factor:
+现在让我们找出每个因素下具体可能发生的根本原因：
 
 ![Example of an Ishikawa diagram](./images/ishikawa_diagram_3.png)
 
-With all of these written down, you can begin to analyse where the problem originates. In this example, you might first verify if the conversion rate is steady despite lower traffic. Then you might audit your sign-up flow to find any leaks and possibly streamline it.
+写下各因素根因，你就可以开始分析问题的根源，在本例中，你可能首先验证在流量较低的情况下转化率是否稳定，然后，你可能会审计你的注册流程，找出任何存在的漏洞，并尽可能简化流程。
 
-This is a simplified example but this diagram can be definitely used for much more complex problems.
+这是一个简单的例子，但这个图绝对适用于更复杂的问题。
 
-Takeaway
+加餐
 --------
 
-Ishikawa diagram offers a simple framework for finding root causes of problems:
+石川图为寻找问题的根本原因提供了一个简单的框架：
 
-1.  Define the problem
-2.  Identify contributing factors or categories
-3.  Find possible root causes related to each factor
-4.  Analyse the diagram
+1.  定义问题
+2.  确定影响因素或类别
+3.  找到与每个因素相关的可能性根本原因
+4.  分析图表
 
-You'll create the diagram with the first three steps. It will then provide a structure for your analysis.
+你可以通过前三个步骤创建出图表，它将为你的分析提供一个基本框架。
 
-### Sources
+### 资料
 
-["How to create cause-and-effect diagrams" by HarvardX (Video)](https://youtu.be/mLvizyDFLQ4)
+[HarvardX 的“如何创建因果图”（视频）](https://youtu.be/mLvizyDFLQ4)
 
-["Fishbone Diagram" by American Society for Quality](https://asq.org/quality-resources/fishbone)
+[American Society for Quality 的“鱼骨图”](https://asq.org/quality-resources/fishbone)
