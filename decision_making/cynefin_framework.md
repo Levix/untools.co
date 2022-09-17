@@ -1,74 +1,71 @@
-# Cynefin 框架
+# Cynefin framework
 
-**基于不同的情况选择合适的应对方式。**
+**Make sense of different situations to choose an appropriate response.**
 
-面对不同的情况通常需要不同的应对方式，Cynefin 框架（发音为/kəˈnɛvɪn/ - "kuh-nev-in"）是由 Dave Snowden 在 1999 年开发的，它用来帮助你了解当前的情况，并做出适合你所处情况的决定。
+Different situations typically require different responses. The Cynefin framework (pronounced /kəˈnɛvɪn/ - "kuh-nev-in") is there to help you make sense of the situation in front of you and make a decision that's appropriate for the type of situation you're dealing with. It was developed by Dave Snowden in 1999. 
 
-## 如何使用它？
+## How to use it
+-------------
 
----
+The framework identifies five domains to categorise problems or situations: clear, complicated, complex, chaotic and disorder.
 
-该框架确定了五个领域来对问题或情况进行分类：清晰（Clear）、繁杂（Complicated）、复杂（Complex)、混乱（Chaotic）和一个处于中央的失序区域。
-
-其理念是**确定你所在的领域，然后根据它的特点采取适当的措施**，让我们详细地认识下每个领域。
+The idea is to **identify which domain you're in and then choose the appropriate action based on its characteristics**. So let's look at each domain in detail.
 
 ![Cynefin framework consisting of Complex, Complicated, Chaotic and Clear quadrants](./images/cynefin_framework_1.png)
 
-### 清晰
+### Clear
 
-它也被称为明显（Obvious）或简单（Simple），是最佳实践的领域。在这个领域，问题是熟悉的、明确的，因果之间的关系是清晰的，情况是稳定的，许多面向过程的情况和问题都属于这个领域，这是一个 "已知的已知（known knowns） "的领域。
+Also known as obvious or simple, this is the domain of best practices. This is where problems are familiar and clearly defined, cause-and-effect relationships are clear and the situations are stable. Many process-oriented situations and problems would fall into this domain. It's a domain of "known knowns".
 
-在这些情况下，解决方案通常是很明确的，不需要太多的专业知识。
+Solutions are usually clear in these situations and don't require much expertise.  
 
-正确的方法是 _感知（sense）- 分类（categorise）- 响应（respond）_：确定事实（感知），对其进行分类，然后采取现有规则或者最佳实践进行处理。
+The right approach would be _sense–categorise–respond_: understand the situation (sense), categorize it, then respond by applying a best-practice solution.
 
-### 繁杂
+### Complicated
 
-在这个领域，可能存在多个正确的答案，但并不是立竿见影，这是一个“已知的未知（known unknowns）”领域——虽然问题很清晰，但要回答它们需要付出努力。
+In this domain, there might be multiple right answers but aren't immediately visible. It's a domain of "known unknowns" – when questions are clear but it takes work to answer them.
 
-这就是为什么需要采用 _感知（sense）- 分析（analyze） - 响应（respond）_ 的方式来处理问题，因此通常需要结合专业知识进行分析，专家根据情况进行评估，探讨并选择合适的行动方案。
+That's why the best approach is to _sense-analyze-respond_. Because analysis is needed, the situations here typically require expert knowledge. Experts should assess the situation, investigate possible options and choose a course of action.
 
-### 复杂
+### Complex
 
-在这个领域，有“未知的未知（unknown unknowns）”，这种情况无法通过分析来理解，因为我们对它还不够了解，目前还不清楚首先需要解决什么问题。
+In this domain, there are "unknown unknowns". The situation cannot be understood by analysis because we don't yet know enough about it. It's not clear what needs to be answered in the first place.
 
-因此，正确的方法是先做实验，了解问题根源，然后感知你正在处理的问题并作出适当的响应。我们的目标应该是充分理解问题或者情况，以便将问题或情况转移到更容易处理的复杂领域。
+So the right approach is to experiment first, learn about the problem. Then sense what you're dealing with and respond appropriately. The goal should be to understand enough so that the problem or situation moves to the complicated domain where it's easier to deal with.
 
-### 混乱
+### Chaotic
 
-当事情不受控制以及因果关系不明确时，就会陷入混乱的领域。首先必须采取行动，达到稳定性，从而控制局势，只有这样才能评估情况，并努力使它具有足够的秩序，从而进入复杂领域。行动（Act）- 感知（sense）- 响应（respond）。
+When things aren't under control, the situation falls into the chaotic domain. It's when cause and effect relationships are unclear. Here it's necessary to first act to establish some stability, to contain the situation. Only then assess the situation and work on bringing enough order to it to move it into the complex domain. Act–sense–respond.
 
-混乱的领域也为尝试新的解决方案提供了机会，因为在这种情况下，人们可能会拥有更加开放的心态。
+The chaotic domain also presents an opportunity to try novel solutions as people might be more open to them in this context.
 
-### 失序
+### Disorder
 
-如果你不知道自己所处的位置，你便处在混乱的领域，应该迅速确定正确的领域，将问题或情况分解成多个部分，并将每个部分分配给一个特定的领域，可能会有帮助。
+If you don't know where you stand, you're in the disorder domain. The goal should be to quickly identify the right domain and move forward from there. It can be helpful to break down the problem or situation into multiple parts and assign each to a specific domain.
 
-## 确定你所处的领域
+## Determining which domain you're in
+----------------------------------
 
----
+It's best to get more familiar with each domain to learn when characteristics of a problem/situation apply to a particular domain. The sources below are a good place to start.
 
-最好是熟悉每个领域，从了解问题、情况的特征出发，选择合适的特定领域，下面的资料是很好的开端。
+Here's a set of questions that can also help point you to the right domain:
 
-这里有一组问题，可以帮助你选择正确的领域：
+* Do you know what causes the situation?
+* Is the situation under control?
+* How much do you know about it?
+* Does solving it require expert knowledge?
 
-- 你知道是什么导致了这种情况吗?
-- 情况是否可控？
-- 你对此了解多少？
-- 解决这个问题需要专业知识吗?
+## Takeaway
+--------
 
-## 加餐
+The key idea of the Cynefin framework is that **different kinds of situations or problems require different kinds of responses**. You should identify what kind of a situation you're dealing with and—with the help of this framework—choose an appropriate response.
 
----
+### Sources
 
-Cynefin 框架的关键思想是：**不同的情况或问题需要不同的响应**，应该确定你正在处理哪种情况，并在这个框架的帮助下选择一个合适的领域。
+["A Leader's Framework for Decisions Making" on Harvard Business Review](https://hbr.org/2007/11/a-leaders-framework-for-decision-making)
 
-### 资料
+["Understanding the Cynefin framework" on Everyday Kanban](https://www.everydaykanban.com/2013/09/29/understanding-the-cynefin-framework/)
 
-[“领导者的决策框架” ——《Harvard Business Review》](https://hbr.org/2007/11/a-leaders-framework-for-decision-making)
+["Cynefin framework" on Wikipedia](https://en.wikipedia.org/wiki/Cynefin_framework)
 
-[“理解 Cynefin 框架” —— 《Everyday Kanban》](https://www.everydaykanban.com/2013/09/29/understanding-the-cynefin-framework/)
-
-[维基百科上的“Cynefin 框架”](https://en.wikipedia.org/wiki/Cynefin_framework)
-
-[Miro 上的“Cynefin 框架模板”](https://miro.com/templates/cynefin-framework/)
+["Cynefin framework template" on Miro](https://miro.com/templates/cynefin-framework/)

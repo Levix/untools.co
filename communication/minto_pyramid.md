@@ -1,52 +1,51 @@
-# Minto 金字塔
+# Minto Pyramid
 
-**让你的沟通更高效、更清晰。**
+**Make your communication more efficient and clear.**
 
-在工作中，沟通条理且高效很重要，现在人都很卷，没有闲工夫去阅读满屏的文字，也没有时间去听长篇大论，而关键信息却在最后才说。
+In business, communication needs to be clear and efficient. People are busy and don't have time to read long walls of text or listen to long presentations where the key info is shared at the very end.
 
-Minto 金字塔将你的沟通方式拆解成自上而下的结构，并快速且清晰地传达你的信息，以结论为前提，提供关键论据，最后用详细信息来支撑论据。
+Use the Minto Pyramid to give your communication a top-down structure and get your message across quickly and clearly. Lead with the conclusion, then provide key arguments and finally support them with detailed information.
 
 ![Minto Pyramid communication framework: Conclusion > Key arguments > Detailed information](./images/minto-pyramid_1.png)
 
-### 它是如何运作的
+### How it works
 
-结合上面那张图，我已经和你分享了它的主体框架，这个工具的几大核心部分 —— 切入正题，现在让我们更详细地看看它是如何运作的。
+See what I did there? I shared the main takeaway with you already. That's the idea of this tool – cutting to the chase. Now let's look at it in more detail.
 
-#### 1\. 从结论开始
+#### 1\. Start with the conclusion
 
-通过告诉他们主要的要点、信息、建议或简单的结论来吸引听众的注意力，这可能与我们以往的交流方式存在区别，但它更有效，尤其是在写作中，以及面对时间或注意力有限的听众时。
+Capture your audience's attention early on by first telling them the main takeaway, message, recommendation or simply your conclusion. This may be the opposite to how we've been taught to communicate but it's more efficient, especially in writing and with audiences who have limited time or attention.
 
-这一原则也被称为BLUF —— “底线在前”。它来源于军事领域，但现在被广泛用于商业领域。
+This principle is also called BLUF – "bottom line up front". It originated in the military but is now widely used in the business world.
 
-#### 2\. 提供关键论据
+#### 2\. Provide key points
 
-主要观点已经传达出来了，是时候用关键论据或主要观点来支撑它了，这些应该还是要言简意赅的，把它们作为主要观点的总结，这部分应该用于解释你的结论或建议背后的“原因”。
+With the main takeaway already communicated, it's time to support it with key arguments or main points. These should still be fairly short. Write them as summaries of your main points. This part should explain the "why" behind your conclusion or recommendation.
 
-#### 3\. 用详细信息支撑论据
+#### 3\. Support points with detailed information
 
-你仍然需要证明你的关键论据是可信的，通过提供支撑这些论据的详细信息来做到这一点：事实、证据、数字、结果。如果你想这么做的话，这部分你可以真正地深入了解。
+You might still need to make your key points credible. Do that by giving more detailed information that support them: facts, evidence, numbers, results. This is the part where you can really go into detail if you want to.
 
-人们越忙，就越可能跳过这一部分，但有时为了让结论能够被接受，这一部分还是很有必要的。
+The busier people are, the more likely they are to skip this part but sometimes it's necessary in order for the conclusion to be accepted or acted on.
 
-有时，如果你的关键论据足以证明你的结论是正确的，并且你的听众能够很好接受你的结论，那么你可能想跳过详细信息去支撑论据。
+Sometimes, you might want to skip the detailed information if your key arguments are enough to justify your conclusion and you know that your audience will understand them well enough.
 
-### 示例
+### Example
 
-让我们结合一个研究员刚刚完成的一项研究来看看这个工具到底是如何实践的，他希望与自己的同事分享他的成果以及建议。
+It's always best to see how such a tool looks like in practice. Let's see an example of a researcher who just completed a study and wants to share the results with their colleagues, along with their recommendation.
 
-以下是使用 Minto 金字塔工具撰写某个主题的方法：
+Here's how you might write a message to your team using the Minto Pyramid tool:
 
-![使用Minto金字塔写主题的例子--先写结论，然后是关键论据和支撑性细节。](./images/minto-pyramid_2.png)
+![Example of a message written using the Minto Pyramid – conclusion is written first, followed by key arguments and supporting details.](./images/minto-pyramid_2.png)
 
-正如上图所看到的，文章开头给出了一个非常明确的结论，它用关键论据来解释，这些论据有详细的数据、证据和结果来支撑。通过这种方式，读者可以立即注意到最关键的信息，如果他们愿意，他们只需要了解细节，而不是为了抓住要点。
+As you can see, there's a very clear recommendation given up front. It's explained with the key findings and those are supported by detailed data, evidence and results. This way, the audience immediately gets the most important information first. They only need to consume the details if they choose to, not in order to get to the main point.
 
-### 要点
+### Takeaway
 
 To sum up, the Minto Pyramid is a tool to give your (written) communication more clarity and efficiency. You'll lead with the conclusion, provide key arguments and support them with details. Your busy audience will thank you.
-总而言之，Minto 金字塔是一个能够让你的(书面)沟通更清晰以及高效的工具，它以结论开头，提供关键论据，并用细节来支撑它们，百忙之中抽出时间阅读的观众会来感谢你。
 
-### 资料
+### Sources
 
-[《The Minto Pyramid Principle》作者：Barbara Minto](https://www.goodreads.com/book/show/33206.The_Minto_Pyramid_Principle)
+["The Minto Pyramid Principle" by Barbara Minto](https://www.goodreads.com/book/show/33206.The_Minto_Pyramid_Principle)
 
-[《BLUF: The Military Standard That Can Make Your Writing More Power》作者：Jan-Erik Asplund](https://www.animalz.co/blog/bottom-line-up-front/)
+["BLUF: The Military Standard That Can Make Your Writing More Powerful" by Jan-Erik Asplund](https://www.animalz.co/blog/bottom-line-up-front/)

@@ -1,135 +1,138 @@
-# 生产性思维模型
+# Productive Thinking Model
 
-**创造性和高效地解决问题。**
+**Solve problems creatively and efficiently.**
 
-通过运用更有条理和批判性的思维，你可以更好地理清手头上的问题，并提出更有创造性的解决方案。Tim Hurson 创建的“生产性思维模型”（Productive Thinking Model）可以帮助你做到这一点。
+By applying more structured and critical thinking, you can understand the problem at hand better and come up with more creative solutions to it. The Productive Thinking Model, created by Tim Hurson, can help you do just that.
 
-当一个问题已经被定义并且你正在寻找创造性的解决方案时，最好试试这个方法。
+It's best used when a problem is already defined and you're looking for creative solutions.
 
-## 如何使用它？
+How to use it
+-------------
 
-这个工具为你提供了解决问题的 6 步框架法，这 6 个步骤分别是:
+This tool gives you a 6-step framework for problem-solving. The six steps are:
 
-1.  问“发生了什么事？”
-2.  问“何谓成果？”
-3.  问“问题是什么？”
-4.  提出解答
-5.  建立解决方案
-6.  协调资源
+1.  Ask "What's going on?"
+2.  Ask "What's success?"
+3.  Ask "What's the question?"
+4.  Generate answers
+5.  Forge the solution
+6.  Align resources
 
 ![](./images/productive_thinking_model_1.png)
 
 Let's look at each step in more detail.
 
-#### 1\. 问“发生了什么事？”
+#### 1\. Ask "What's going on?"
 
-第一步是要更好地理解问题，你可以使用这些指导性问题来帮助你：
+The first step is about understanding the problem better. You can use these guiding questions to help you:
 
-- 问题到底出在哪里？
-- 这个问题的影响是什么？
-- 我已经知道了什么？我有什么信息？
-- 谁参与了这个问题？
-- 当这个问题解决后，未来的愿景是什么？  
-   _（这就是 Hurson 所说的 “未来的目标（Target Future）”）_
+* What's the problem exactly?
+* What's the impact of this problem?
+* What do I already know? What information do I have?
+* Who is involved in this?
+* What's the vision of the future when this problem is solved?  
+    _(This is what Hurson calls the "Target Future")_
 
-把你在这里收集的答案记录下来，因为你在以后的过程中会需要它们。
+Document the answers you gather here as you'll need them later in the process.
 
-#### 2\. 问“何谓成果？”
+#### 2\. Ask "What's success?"
 
-这一步将帮助你定义成功在你未来愿景中是什么样子的（你在上一步创建的指导性问题）。
+This step will help you define what success looks like in your vision of the future (that you created in the previous step).
 
-为了提出成功的标准，你可以使用 **DRIVE** 框架：
+To come up with the success criteria, you can use the **DRIVE** framework:
 
-- 你希望解决方案能**做**（do）什么？
-- 有什么**限制**（restrictions）？什么是它不能做的？
-  - (_你可以使用_[_反转思维_](./inversion.md)_来辅助你。_)
-- 我们可以在这方面**投入**（invest）哪些资源？
-- 解决方案应该有哪些**价值点**（values）？
-- 什么是**基本成果**（essential outcomes）？
+* What do you want the solution to **do**?
+* What are the **restrictions**? What must it _not do_?
+    * (_You can use_ [_inversion_](https://untools.co/inversion) _to help you here_)
+* What resources can we **invest** in this?
+* What **values** should the solution have?
+* What are the **essential outcomes**? 
 
-你可以自由重复讨论这些问题，直到你对成功有一个清晰的愿景。
+Feel free to cycle through these questions until you have a clear vision of success in front of you.
 
-#### 3\. 问“问题是什么？”
+#### 3\. Ask "What's the question?"
 
-现在是时候提出一些问题来实现你的愿景（未来的目标），Hurson 称这些为“催化问题”。
+Now it's time to generate questions that must be answered to achieve your vision (the Target Future). Hurson calls these "catalytic questions".
 
-使用你在前面步骤中收集的信息，诸如“我们怎样才能......”或“我怎样才能......”这样的短语来帮助你组织问题。
+Use the information you've gathered in the previous steps. Phrases like "How might we...?" or "How can I...?" will help you formulate the questions.
 
-#### 4\. 提出解答
+#### 4\. Generate answers
 
-在这一步，尽量想出更多催化问题的答案，集思广益，不要评判，收集想法，这些都是潜在的解决方案。
+In this step, try to come up with as many answers to the catalytic questions as you can. Brainstorm, don't judge and collect ideas. These are your potential solutions.
 
-在下一步，你将把你的想法清单范围缩小到最有希望的那些解决方案。
+In the next step, you will narrow down your list of ideas to the most promising ones.
 
-#### 5\. 建立解决方案
+#### 5\. Forge the solution
 
-在进一步发展之前，你需要选择最佳的解决方案，从上一步列出的清单，根据第二步中的成功标准来评估每个想法或解决方案，使用[决策矩阵](../decision_making/decision_matrix.md)可以简化这一步。
+You need to choose the best solution before developing it further. Take your list from the previous step and evaluate each idea/solution against the success criteria from step 2. Use a [decision matrix](/decision-matrix) to make this step easier.
 
-现在你可以考虑在所选解决方案的基础上进行构建，怎样才能使它变得更好？怎样才能使它更符合成功标准？
+Now you can think about building on your selected solution(s). What could make it better? How can you make it fit the success criteria more?
 
-#### 6\. 协调资源
+#### 6\. Align resources
 
-在最后一步中，你将转向执行解决方案。
+In this final step, you move toward executing the solution.
 
-写下实现这一目标所需要的行动和资源，确定负责解决方案的人——包括整体方案以及解决方案的各个部分。
+Write down which actions and resources are necessary to make this happen. Identify people who are responsible for it – in whole as well as each part of the solution.
 
-最好详细说明这些，这样你就会有一个清晰的行动计划，现在你应该能够执行解决方案了。
+It's best to specify all of this in detail so that you have a clear plan of action. You should now be able to execute the solution.
 
-## 例子
+Example
+-------
 
-让我们看看如何在一个实际例子中使用该工具。
+Let's look at how this tool can be used in a practical example.
 
-假设你要解决的问题是赢得一个潜在客户。
+Suppose that what you're solving is winning a prospective customer.
 
-当你调查情况时，你会发现：
+When you probe about the situation, you find out that:
 
-- 这是一个有困难需求的客户，但可以带来很多收入。
-- 失去这些收入的影响可能会对你的业务产生重大影响。
-- 你的销售团队一直与他们保持联系，并且知道易用性对他们非常重要。
+* It's a customer with difficult requirements but one that could bring in a lot of revenue.
+* The impact of losing this revenue could be significant for your business.
+* Your sales team has been in touch with them and know that ease of use is important for them, among other things.
 
-你的愿景（或未来的目标）是让客户成功上手，每天使用你的产品并带来收入。
+Your vision (or target future) is that the customer is successfully onboarded, uses your product daily and brings in the revenue.
 
-现在我们按照第 2 步，用 DRIVE 框架来定义成功：
+Let's now define success, as per step 2, using the DRIVE framework:
 
-- 解决方案必须做什么？向客户展示你的产品价值，以及如何照顾他们。
-- 有什么限制？解决方案必须表明我们可以满足客户的需求，并且产品易于使用。
-- 我们可以在这方面投入什么资源？我们可以投入两周的时间给两名销售人员、一名设计师和一名工程师。
-- 解决方案应该具有什么价值？它应该是令人信服的、透明公开和经过深思熟虑的。
-- 最基本的结果是什么？客户同意签署合同。
+* What must the solution do? Show the customer the value of your product and also how well you can take care of them.
+* What are the restrictions? The solution must show that we meet the customer's requirements and that the product is easy to use.
+* What resources can we invest in this? We can invest two weeks of two salespeople and one week of a designer and an engineer.
+* What values should the solution have?  It's convincing, transparent and thoughtful.
+* What's the essential outcome? Customer agrees to sign a contract.
 
-现在，我们可以继续定义为实现我们的愿景而必须回答的“催化问题”：
+We can now move on to defining the "catalytic questions" that must be answered to reach our vision:
 
-- 我们怎样才能以符合他们需求的方式来展示产品的价值？
-- 我们如何证明产品的易用性？
+* How might we show the value of the product in a way that meets their requirements?
+* How do we demonstrate the ease of use?
 
-假设这些都是最关键的问题，我们需要关注它们，我们可以头脑风暴得出一些答案（潜在的解决方案）：
+Let's say these are the most critical questions and we need to focus on them. We can brainstorm some answers (potential solutions):
 
-- 用幻灯片展示产品和公司的亮点
-- 提供客户一个个性化的交互式演示例子
-- 花一天时间与潜在终端用户接触，让他们亲自体验产品
-- 让关键利益相关者体验产品
+* Present a slide deck with product and company highlights
+* Build an interactive demo personalized for the customer
+* Spend a day with the potential end-users and have them try the product hands-on
+* Give key stakeholders a tour of the product
 
-现在我们需要选择最有希望的解决方案，为了简单起见，假设我们使用了[决策矩阵](../decision_making/decision_matrix.md)，结果表明最好的解决方案似乎是花一天时间与潜在的最终用户接触，并让他们亲自体验产品。
+Now we need to choose the most promising solution. For the sake of simplicity, let's say we used the [decision matrix](/decision-matrix) and it turns out that the best solution seems to be spending a day with the potential end-users and having them try the product hands-on.
 
-我们可以通过邀请关键的利益相关者来观察，让他们看到产品可以给用户带来的价值，也可以看到产品对用户来说很容易上手，从而使这一点变得更好。
+We can make this even better by inviting key stakeholders to observe so they can see the value the product can bring to their users and also that it's easy to use for them. 
 
-最后一步是协调资源：我们将派出一个由两名销售人员和一名工程师（在现场安装产品）组成的小团队去拜访客户一天，销售副总裁将负责协调此事，一位工程部经理将负责为试验提前准备合适的产品版本。
+The final step would be to align the resources: we will send a small team consisting of two salespeople and an engineer (to set up the product on-site) to travel to the customer for a day. The Sales VP will be responsible for coordinating this. And an engineering manager will be tasked with preparing the right version of the product for the trial.
 
-我们现在有了一个明确的行动计划，以最有希望的方式解决这个问题。
+We now have a clear plan of action for the most promising solution to the problem.
 
-## 加餐
+Takeaway
+--------
 
-生产性思维模型让你能够通过结构化的、批判性的思维来创造性地解决问题，它提供了一个 6 步框架法：
+The Productive Thinking Model enables you to solve problems creatively through structured, critical thinking. It offers a 6-step framework:
 
-1.  问“发生了什么事？”
-2.  问“何谓成果？”
-3.  问“问题是什么？”
-4.  提出解答
-5.  建立解决方案
-6.  协调资源
+1.  Ask "What's going on?"
+2.  Ask "What's success?"
+3.  Ask "What's the question?"
+4.  Generate answers
+5.  Forge the solution
+6.  Align resources
 
-在完成这些步骤之后，你应该具备一个基于最佳解决方案的行动计划。
+After going through these steps, you should be equipped with an action plan based on the best solution to your problem.
 
-### 资料
+### Sources
 
-[“Think Better: An Innovator's Guide to Productive Thinking” 作者：Tim Hurson](https://www.goodreads.com/book/show/1860620.Think_Better)
+["Think Better: An Innovator's Guide to Productive Thinking" by Tim Hurson](https://www.goodreads.com/book/show/1860620.Think_Better)

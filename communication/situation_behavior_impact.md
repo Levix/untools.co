@@ -1,59 +1,59 @@
-# 情境-行为-影响
+# Situation-Behavior-Impact
 
-**给别人更清晰的反馈，而非批评**
+**Give clearer feedback to others without judgement.**
 
-当我们带着消极情绪看待别人的行为时，我们会经常对别人的行为指指点点，并做出错误的定论，当给他进行反馈，很难保持客观。情景-行为-影响（SBI™）是创新领导力中心开发的一个工具，它可以帮助你将主观的错误结论从反馈中剔除，使其更加客观。
+When we perceive someone's behavior negatively, we often jump to conclusions and make assumptions about why someone acted the way they did. When giving feedback to that person, it can be hard to stay objective. Situation-Behavior-Impact (SBI™) is a tool developed by the Center for Creative Leadership that helps you remove judgement out of the feedback you give and make it clearer.
 
-这个工具对给予负面反馈的效果最好，因为它可以让接受者对它不那么抵触，但它同样适用于正面反馈。
+This tool works best for giving negative feedback as it can make the recipient less defensive about it, but it can absolutely be used for positive feedback, too.
 
-### 它是如何运作的
+### How it works
 
-SBI™提供了几个简单的步骤，你可以根据这些步骤构建想要给出的反馈。
+SBI™ offers a simple few steps along which you can structure the feedback you want to give.
 
-#### 1\. 情境
+#### 1\. Situation
 
-从行为发生的情境开始，这有助于让反馈更具体，其他人更容易理解。
+Start with the situation where the behavior occurred. This helps with making the feedback specific and the other person can more easily relate to it.
 
-#### 2\. 行为
+#### 2\. Behavior
 
-描述你所反馈的具体行为，告诉对方他们做了什么或你看到了什么，而不是参杂对他人的解读，这点至关重要，把你的解读排除在反馈之外很重要。
+Describe the specific behavior you're giving feedback about. Tell the other person what they've done or what you've seen, not your interpretation of it. This is critical to leave your judgement out of the feedback.
 
-#### 3\. 影响
+#### 3\. Impact
 
-解释他们的行为产生了什么样的影响，这包括你的想法、感受和原因，以及对其他人或整个团队的广泛影响。
+Explain what kind of impact their behavior had. This can range from what you thought and felt and why, to broader impact on others or the whole team.
 
-#### 附加：意图
+#### Plus: Intent
 
-有时，你可能想问他们自身行为背后的意图是什么，他们可能有一个你不知道的合理理由，或者与你的假设不一致。
+Sometimes, you may want to ask what the intention was behind their behavior. They might have a sound reason that you don't know about or is different from your assumptions.
 
-这可以很大程度上解释他们的意图与实际影响之间的差距。
+This can greatly help explain the gap between their intent and the actual impact.
 
-#### 鼓励反思
+#### Encourage reflection
 
-反馈只有在被考虑并有所采纳的情况下才是有用的，鼓励对方反思你所说的话，并思考他们将来会有什么不同的表现。
+Feedback is only useful when it's considered and acted upon. Encourage the other person to reflect on what you've said and think how they might act differently in the future.
 
-如果你询问他们的意图，这可能是讨论如何改变的一个好起点。
+If you asked about their intent, it can be a good starting point for discussing what to change.
 
-### 示例
+### Example
 
-让我们看看使用这个工具提供反馈会是什么样子，想象一下，一位经理在最近的一次会议后对他们的报告进行汇报。
+Let's see what giving feedback using this tool can look like. Imagine a manager talking to their report after a recent meeting.
 
-他们以这样一种情境开头：“_在昨天的产品评审会议上，当你给你的团队提供最新信息时……_”
+They start with the situation: "_In yesterday's product review meeting, when you were giving an update for your team..._"
 
-然后描述他们报告的行为：“_……你没有分享任何关于我们的客户如何使用这个新功能的最新消息……_”
+Then they describe their report's behavior: "_...you didn't share any recent learnings about how our customers use this new feature..._"
 
-并分享该行为产生的影响：“_……这让我担心你最近是否与我们的客户交谈过产品新功能。_”
+And share the impact the behavior had: "_...which made me worry if you've been talking to our customers recently at all._"
 
-最后，他们会询问自己的意图：“_这次你为什么不分享任何东西？_”
+Finally, they ask about their intent: "_Why didn't you share anything this time?_"
 
-这可以继续讨论意图和影响之间的差距。
+This can continue with the discussion about the gap between the intent and the impact.
 
-### 要点
+### Takeaway
 
-使用 SBI™ 工具以非评判的方式提供更清晰的反馈，在一个情境中构建反馈，描述特定行为并分享该行为产生的影响，你也可以通过询问对方的意图来开始一场健康、客观的讨论。
+Use the SBI™ tool to give clearer feedback in a non-judgemental way. Frame the feedback within a situation, describe the specific behavior and share the impact the behavior had. You can also follow-up by asking about the intent to start a healthy and objective discussion.
 
-_SBI 和 Situation-Behavior-Impact 是创意领导力中心的商标。_
+_SBI and Situation-Behavior-Impact are trademarks of the Center for Creative Leadership._
 
-### 资料
+### Sources
 
-[“使用情境 - 行为 - 影响 SBI™ 来理解意图”，由创意领导力中心提供](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/)
+["Use Situation-Behavior-Impact (SBI)™ to Understand Intent" by Center for Creative Leadership](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/)

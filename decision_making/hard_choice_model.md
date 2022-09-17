@@ -1,49 +1,49 @@
-# 困难选择模型
+# Hard choice model
 
-**弄清楚你正在做什么样的决定。**
+**Figure out what kind of a decision you're making.**
 
-困难选择模型可以帮助了解你正在做的决定——无论它是一个无需思考的决定、一个困难的选择还是介于两者之间的选择，它会让你做出正确的决定。
+The hard choice model can help you see the kind of a decision you're making – whether it's a no-brainer, a hard choice or something in between. It will enable you to move forward with your decision. 
 
-如何使用它？
+How to use it
 -------------
 
-思考一下你做决定的两个因素：
+Think about two factors of your decision:
 
-* 它的影响有多大
-* 比较选项的难易程度
+* How impactful it is
+* How easy it is to compare the options
 
-你可以做四种决定，这个模型基于以下两个因素:
+There are four kinds of decisions that you can make. This model places them based on those two factors:
 
 ![Hard choice model by Wes O'Haire](./images/hard_choice_model_1.png)
 
-#### 不费吹灰之力
+#### No-brainer
 
-基于低影响做出决策，便于比较选项。
+Decision with low-impact where it's easy to compare the options.
 
-在这里，你可以快速行动，跟着你的直觉走。
+Here you can move fast and go with your gut feeling.
 
-#### 苹果/橙子的选择
+#### Apples/Oranges choice
 
-基于低影响力的决策，很难比较选项。
+Decision with low-impact where it's hard to compare the options.
 
-你应该根据对你真正重要的东西来完善你的选择。
+You should refine your options based on what is really important to you.
 
-#### 大抉择
+#### Big choice
 
-基于高影响的决策，便于比较选项。
+Decision with high-impact where it's easy to compare the options.
 
-在做出决定之前，你需要拥有信心。
+You need to gain confidence before making the decision.
 
-#### 困难的选择
+#### Hard choice
 
-基于高影响的决策，很难比较选项。
+Decision with high-impact where it's hard to compare the options.
 
-在这种情况下，像[决策矩阵](./decision_matrix.md)这样的工具可以帮助你根据不同的因素仔细评估选项。
+In this case, a tool like [the decision matrix](/decision-matrix) can help you carefully evaluate options based on different factors.
 
-### 扩展
+### Move forward
 
-当你能用这个模型对你的决定进行分类时，它能帮助你采取适当的行动。
+When you can categorize your decision using this model, it will enable you to take the appropriate action.
 
-### 资料
+### Sources
 
-[“设计师的心智模型” 作者：Wes O'Haire](https://dropbox.design/article/mental-models-for-designers)
+["Mental models for designers" by Wes O'Haire](https://dropbox.design/article/mental-models-for-designers)
