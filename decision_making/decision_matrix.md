@@ -1,75 +1,75 @@
-# Decision matrix
+# 决策矩阵
 
-**Choose the best option by considering multiple factors.**
+**通过考虑多种因素选择最优方案。**
 
-Some decisions can be tough to make. Especially when there are more factors that go into making them. Decision matrix is a tool that will help you consider all the important factors when making a decision. It brings more clarity into the process.
+有些决策可能很难下定论，特别是当有很多的因素影响到它们时，决策矩阵是一种可以帮助你在做决策时考虑所有重要因素并梳理清晰过程的工具。
 
-It is most useful when you have several options and you need to decide between them based on a number of different factors.
+当你有几个选择项，并且需要根据一些不同的因素在它们之间做出决策时，它是最有用的。
 
-How to use it 
+如何使用它？
 --------------
 
-Decision matrix is basically a simple table with your options and factors for deciding. The goal is to calculate a score for each option based on their factor scores. The score will help you make your decision.
+决策矩阵基实际上是一个包含了你的选项和决策因素的简单表格，目的是根据每个选项的因素计算得出一个分数，而这个分数将帮助你做出决策。
 
-Here's how to create a decision matrix step by step:
+下面是创建决策矩阵的步骤：
 
-1.  Write down the decision you need to make
-2.  List the options you have
-3.  Identify factors that you want to consider
-4.  Score the options on each factor
-5.  Add weight to the factors
-6.  Calculate the options' scores – multiply each score by the factor weight, then add them up.
-7.  Pick your winner – option with the highest score
+1.  写下你需要做出的决策；
+2.  列出你的选项；
+3.  识别你要考虑的因素；
+4.  对每个选项进行评分；
+5.  给各因素加权；
+6.  计算选项得分——将每个分数乘以因素权重，然后相加；
+7.  选择最后的赢家——得分最高的选项；
 
-Let's see how this works in practice.
+让我们看看它在实践中是如何工作的。
 
-Practical example
+实例
 -----------------
 
-Suppose you're leading a design team and you want to decide which design tool you want to use as a team. You've done some research and you narrowed down your options to three: Sketch, Figma and Framer. Let's put them in your decision matrix table.
+假设你正在带一个设计团队，想决定在团队中使用哪种设计工具，通过一些研究把选择范围缩小到了三个：Sketch, Figma 和 Framer，让我们把它们放在你的决策矩阵表中。
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| **Factors** | TBD | TBD | TBD | **Score** |
-| **Weights** |     |     |     |     |
+| **因素** | TBD | TBD | TBD | **分数** |
+| **权重** |     |     |     |     |
 | Sketch |     |     |     |     |
 | Figma |     |     |     |     |
 | Framer |     |     |     |     |
 
-Now let's look at the factors you need to consider. You have a set budget for tools so cost will be the first factor. After discussing with your team, you agree that prototyping and collaboration capabilities of a tool are most important for them. Now you have the factors that will influence the decision.
+现在让我们来看看你需要考虑的因素，由于你有固定的工具预算，所以成本放在第一个因素，在与你的团队讨论后，其中工具的原型设计和协作能力对他们来说是最重要的，现在有了影响决定的因素。
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| **Factors** | Cost | Prototyping | Collaboration | **Score** |
-| **Weights** |     |     |     |     |
+| **因素** | 成本 | 原型设计 | 协作 | **分数** |
+| **权重** |     |     |     |     |
 | Sketch |     |     |     |     |
 | Figma |     |     |     |     |
 | Framer |     |     |     |     |
 
-It's time to score each option on every factor. Let's use a scale of 1 to 5 (where 1 is the worst, 5 is the best), but you can use any scale you like.
+接下来对每个选项的各个因素进行打分，我们使用 1 - 5 的分数进行打分（其中 1 是最差的，5 是最好的），你也可以使用任何你喜欢的评分方式。
 
-**Cost** – You find out that Figma and Framer both cost $12/editor/month, while Sketch is a little cheaper at $9. You'll score them 3 and 4 respectively.
+**成本** - 你发现 Figma 和 Framer 的费用都是 12 美元/编辑器/月，而 Sketch 一个月 9 美元，稍微便宜一些，你会给它们分别打 3 分和 4 分。
 
-**Prototyping** – Framer comes out as the most powerful in prototyping. Figma and Sketch are somewhat similar, but Figma can do a little more. Framer gets a 5, Figma a 3 and Sketch a 2.
+**原型设计** - Framer 在原型设计方面能力是最强大的，而 Figma 和 Sketch 能力相当，但 Figma能做得更多一些，其中 Framer 得 5 分，Figma 得 3 分，Sketch 得 2 分。
 
-**Collaboration** – You let your team evaluate this one. They agree that Figma is the best for collaboration, scoring it with 5. Sketch and Framer both get a 3.
+**协作** - 你让团队评估了该选项，他们一致认为 Figma 是最适合团队协作的，给它打了 5 分，Sketch 和 Framer 都得了 3 分。
 
-Let's see how these look like in your decision matrix:
+让我们看看这些选项在你的决策矩阵中表现如何：
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| **Factors** | Cost | Prototyping | Collaboration | **Score** |
-| **Weights** |     |     |     |     |
+| **因素** | 成本 | 原型设计 | 协作 | **分数** |
+| **权重** |     |     |     |     |
 | Sketch | 4   | 2   | 3   |     |
 | Figma | 3   | 3   | 5   |     |
 | Framer | 3   | 5   | 3   |     |
 
-At this point, the decision might be a little clearer, but all factors aren't equally important. You need to add weight to them. Since your budget is set, the cost factor is the most important, making it a 5. Your team says that prototyping is a little more important for them than collaboration features. You weight the factors accordingly:
+基于上述表格，做出决定可能会更清晰一些，但所有的因素并不是同等重要，需要给它们增加权重。由于你的预算已经确定，所以成本因素是最重要的，因此是 5 分。对于你的团队来说，原型设计比协作能力更重要一些，你要对这些因素进行相应的加权。
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| **Factors** | Cost | Prototyping | Collaboration | **Score** |
-| **Weights** | 5   | 4   | 3   |     |
+| **因素** | 成本 | 原型设计 | 协作 | **分数** |
+| **权重** | 5   | 4   | 3   |     |
 | Sketch | 4   | 2   | 3   |     |
 | Figma | 3   | 3   | 5   |     |
 | Framer | 3   | 5   | 3   |     |
@@ -78,21 +78,21 @@ The next step is multiplying the scores with the weight of each factor. Score on
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| **Factors** | Cost | Prototyping | Collaboration | **Score** |
-| **Weights** | 5   | 4   | 3   |     |
+| **因素** | 成本 | 原型设计 | 协作 | **分数** |
+| **权重** | 5   | 4   | 3   |     |
 | Sketch | 4*5 = 20 | 2*4 = 8 | 3*3 = 9 | **37** |
 | Figma | 3*5 = 15 | 3*4 = 12 | 5*3 = 15 | **42** |
 | Framer | 3*5 = 15 | 5*4 = 20 | 3*3 = 9 | **44** |
 
-And there you have it. You have a score for each option based on the factors that are important for you. In this case, Framer comes out as the winner.
+通过上述表格你有了最终的决定，结合团队内觉得最重要的因素，并且每个选项都有一个分数，在这种情况下，Framer 是团队最终选择的设计工具。
 
-Decision matrix is a very useful tool for situations like this. When there are multiple factors to consider, this tools removes the uncertainty and subjectivity from your decision-making. It allows you to clearly figure out which decision is the most reasonable to make.
+决策矩阵面对上面这类情况，它是一个非常有用的工具，当有多个因素需要考虑时，这个工具可以消除你决策中的不确定性和主观性，可以让你清楚得识别哪个决定是最合理的。
 
-App for the decision matrix
+决策矩阵应用
 ---------------------------
 
-If you want to give this tool a shot, I recommend using an app called [Ruminate](https://www.ruminate.io/). It provides everything you need to create a decision matrix and does all the calculations for you.
+如果你想试试这个工具，我建议你试试 [Ruminate](https://www.ruminate.io/) 应用，它提供了创建决策矩阵所需的一切，并可以帮助你完成所有的计算。
 
-### Sources
+### 资料
 
-["Decision matrix" on Toggl Blog](https://toggl.com/blog/decision-matrix)
+[Toggl 博客上的“决策矩阵”](https://toggl.com/blog/decision-matrix)
