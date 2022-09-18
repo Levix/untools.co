@@ -1,83 +1,83 @@
-## Concept map
+## 概念图
 
-**Understand relationships between entities in a concept or system.**
+**理解一个概念或系统中实体之间的关系**
 
-Concept mapping is a great way to **visualise understanding of a concept or system and understand the relationships between its entities**.
+概念图是**可视化理解一个概念或系统并理解其实体之间关系**的好方法。
 
-It has many uses as the tool's authors, Joseph Novak and Alberto Caňas, describe:  
-"_Concept mapping has been shown to help learners learn, researchers create new knowledge, administrators to better structure and manage organizations, writers to write, and evaluators assess learning_."
+正如该工具的作者 Joseph Novak 和 Alberto Caňas 所描述的那样，它有很多用途:
+“_概念图已被证明可以帮助学习者学习，研究人员创造新知识，管理人员更好地管理组织，作家写作，以及评估者评估学习_。”
 
-You can use this tool alone but it's also very useful in group workshops. In groups, it can help you find differences between how individuals understand certain concepts and find alignment.
+你可以单独使用这个工具，但它在小组研讨会中也非常有用，在团队中，它可以帮助你发现他人对某些概念理解上的差异，并达到理解上的一致性。
 
-### How to use it
+### 如何使用它？
 
-Before you go ahead and create a concept map, it's important to make sure that you're in a domain of knowledge you're familiar with so the map would be accurate. It doesn't mean you need to know everything before you start creating it, but it's useful to have a good amount of starting knowledge.
+在你开始构建概念图之前，确保在一个你所熟悉的知识领域，这样地图才会准确，这并不意味着你需要在开始创建之前了解所有的知识点，但拥有大量的基础知识是很有用的。
 
-#### 1\. Formulate a 'focus question'
+#### 1\. 制定一个“核心问题”
 
-Concept maps need context and focus questions can really help you formulate what you need to answer or use the concept map for. You can ask things like:
+概念图需要背景，核心问题可以帮助你明确需要回答或使用概念图的目的，你可以问这样的问题：
 
-* How does X work?
-* What's the context in which Y exists?
+* X 是如何工作的？
+* Y 存在的背景是什么？
 
-You'll also find that you can look at things from different angles. It's useful to find which angle specifically you want to understand: is it perhaps the inner workings of something or rather the interacting relationships around?
+你还会发现可以从不同的角度看问题，找出具体想要了解的角度是很有用的：可能是某种物体的内部运作，或是周围的相互关系？
 
-#### 2\. Identify key entities
+#### 2\. 识别关键实体
 
-Within the context of your domain or system and your focus question, identify the key entities that play a role in it: people, places, organizations, actions, processes, activities, methods etc.
+在你的领域或系统以及你的核心问题的背景下，确定在其中发挥作用的关键实体：人、地点、组织、行动、过程、活动、方法等。
 
-Just write them down in a simple list. It's typically enough to find 15 to 25 entities but it's fine to have more if you're dealing with a complex concept.
+把它们写在一个简单的列表里，通常情况下，找到 15-25 个实体就足够了，但如果你处理的是一个复杂概念，多一点实体也没关系。
 
-#### 3\. Sort the list of entities
+#### 3\. 对实体列表进行排序
 
-This is an intermediary step before actually creating the map. Sort your list from the most general items to the most specific ones. This will help you create a better hierarchy in your map.
+这是实际创建地图之前的中间步骤，从最普通到最具体的实体项进行排序，这将帮助你在地图中创建更好的层次结构。
 
-#### 4\. Begin to outline the map
+#### 4\. 开始画地图的轮廓
 
-Write the entities on post-its and lay them out on a (virtual) whiteboard. It's important to be able to move them around as you'll be trying to capture the relationships between them.
+把实体写在便利贴上，并把它们放在（虚拟的）白板上，重要的是能够移动它们，因为你可以观察它们之间的关系。
 
-Connect the entities with lines to visualise the relationships. Use linking verbs or phrases (e.g. "contributes to", "is made of" or "creates") to represent the relationships more specifically.
+用线条将实体间连接起来，使其关系可视化，使用连接动词或短语（如“有助于”、“由……所组成”或“创造”）来更具体地表示这些关系。
 
-#### 5\. Continue to fill in the rest of the map
+#### 5\. 继续填充地图的其余部分
 
-At this point, if you take two entities in a map, you should be able to read their relationship as a meaningful sentence (e.g. "Designer creates a concept map").
+在这一点上，如果你在一个地图上存在两个实体，你能够把它们的关系读成一个有意义的句子（例如：“设计师创建了一个概念图”）。
 
-Try to complete the map in the same way as until now. It can take a few tries as you'll be developing better understanding of the entities and their relationships along the way.
+试着用和现在一样的方式完成地图，这可能需要几次尝试，因为你将在此过程中更好地理解实体及其它们之间的关系。
 
-You might identify gaps in your knowledge along the way and you'll have to fill them before continuing. That can also be a valuable outcome.
+在学习的过程中，你可能会发现知识上的盲区，在继续前你必须把这些空白补上，这也可能是一个有价值的结果。
 
-Now let's see how all of this looks like a on a simple example.
+现在让我们看看在一个简单的例子中这些看起来是怎样的。
 
-### Example
+### 例子
 
-Suppose you're starting in a new role in a company that makes B2B software. You're trying to understand the product, specifically sharing permissions.
+假如你开始在一家 B2B 软件公司担任新职务，正在尝试理解产品，特别是共享权限。
 
-You formulate your focus question as: "How do sharing permissions work in this product?"
+你把核心问题拟定为：“共享权限如何在此产品中工作？”
 
-Then you go on to list all the entities that play a role in that and you sort the list as well:
+然后继续列出所有在其中发挥作用的实体，并对列表进行排序：
 
 ![Example of a list when creating a concept map](./images/concept_map_1.png)
 
-You may find that in your case, the list can get pretty long. It's good to keep referring to your focus question to see if the items you are listing are still relevant to it.
+你可能会发现这个清单可能会变得相当长，但不断基于核心问题出发，看看所列举的项目是否仍然与之相关，这看起来很重要。
 
-Sorting the items is the first step toward mapping the hierarchy and relationships.
+对子项进行排序是映射层次结构和关系的第一步。
 
-You can now begin to outline the map in a more visual way and capture the relationships. You can use a flowchart software for this or just sketch it out on paper.
+现在你可以开始以更直观的方式绘制地图，并描述其中的关系，你可以使用流程图软件来做，或者直接在纸上画出草图。
 
 ![Example of a concept map](./images/concept_map_2.png)
 
-With this in hand, you can now ask if your understanding is complete or if there's more to the concept. You can also start questioning how it might work better.
+有了这些，你现在可以问自己是否完全理解，或者是否有更多的概念，你也可以开始质疑它如何能更好地工作。
 
-This is a very simplified example and some of the concept maps you'll create might be quite larger. But this should give you an idea how this thinking tool can help you.
+这是一个非常简化的例子，你创建的部分概念图可能会相当庞大，但这应该会让你知道这个思维工具是如何帮助你的。
 
-### Takeaway
+### 结论
 
-We've seen that a concept map is a very universal and useful tool for capturing and developing an understanding of concepts or systems. It makes your mental model explicit and helps you identify gaps in knowledge.
+我们已经看到，概念图是一个非常普遍且有用的工具，用于获取和发展对概念或系统的理解，它能够使你的思维模式清晰，并能帮助你识别到知识的盲区。
 
-You can apply this tool to pretty much any concept and beyond the learning use-case, it can also enable you to think how something might be designed or improved.
+你可以将该工具应用到几乎任何概念中，除了学习用例之外，它还可以让你思考如何设计或改进某件事。
 
-### Sources
+### 资料
 
-["The Theory Underlying Concept Maps and How to Construct and Use Them" by Joseph Novak and Alberto Caňas](http://cmap.ihmc.us/docs/theory-of-concept-maps.php#1-3)
+[“The Theory Underlying Concept Maps and How to Construct and Use Them” 作者：Joseph Novak and Alberto Caňas](http://cmap.ihmc.us/docs/theory-of-concept-maps.php#1-3)
 
-["Exposing the Magic of Design" by Jon Kolko](https://www.goodreads.com/book/show/9634007-exposing-the-magic-of-design)
+[“Exposing the Magic of Design” 作者：Jon Kolko](https://www.goodreads.com/book/show/9634007-exposing-the-magic-of-design)
