@@ -1,81 +1,82 @@
-# Eisenhower Matrix
+# 艾森豪威尔矩阵
 
-**Prioritize your actions and tasks by importance and urgency**
+**按照重要性和紧急性对你的行动和任务进行优先级排序**
 
-Named after U.S. President Dwight D. Eisenhower, this prioritization framework will help you organize your tasks and activities by importance and urgency. It's especially useful when you're very busy but don't feel like what you do has much impact.
+以美国总统德怀特·大卫·艾森豪威尔的名字命名，这个优先级框架将帮助你按重要性和紧急性组织你的任务和活动，当你很忙但又觉得你所做的事情没有什么影响时，它就特别有用。
 
-How to use it
+如何使用它？
 -------------
 
-The Eisenhower Matrix has **four quadrants along two axes: importance and urgency**.  
-For every activity or task, ask yourself: It is important or not? Is it urgent or not?
+艾森豪威尔矩阵**沿着两条轴有四个象限：重要性和紧急性**。
 
-Based on the answer, **place the activity/task in the right quadrant. The quadrant determines what you should do with the task**:
+对于每项活动或任务，先问自己：它是重要的还是不重要的？它是紧急还是不紧急？
 
-#### 1\. Important and urgent → Do it
+根据重要紧急划分，**将活动或任务分好类放在对应的象限内，象限决定了你应该对该任务做什么**。
 
-* These are the tasks that you want to do as soon as possible. 
-* Crises, pressing problems and other things where not acting now has negative consequences.
+#### 1\. 重要且紧急 → 马上执行
 
-#### 2\. Important but not urgent → Schedule it
+* 这些是你想尽快完成的任务。 
+* 危机、紧急的问题和其他现在不采取行动就会带来负面后果的事情。
 
-* Find a time for these tasks and do them then.
-* This quadrant is typically where deep work happens – tasks that contribute to your projects or long-term goals.
+#### 2\. 重要但不紧急 → 制定工作计划
 
-#### 3\. Urgent but not important → Delegate it
+* 安排好时间做这些事情。
+* 该象限通常是深度工作存放的位置——对你的项目或长期目标有帮助的任务。
 
-* If you can, find someone who can do these tasks for you.
-* If you can't delegate it, schedule it but always try to do the important-but-not-urgent tasks first.
-* These are often administrative tasks or things that have deadlines but aren't critical.
+#### 3\. 紧急但不重要 → 交由他人解决
 
-#### 4\. Not urgent and not important → Don't do it
+* 如果可以的话，找一个能为你做这些工作的人。
+* 如果你不能委派任务，那就自己安排好时间，但尽量先做那些重要但不紧急的任务。
+* 这些通常是管理任务或有截止日期但不是关键的事情。
 
-* These tasks aren't worth your time and you shouldn't do them at all.
-* Avoidance activities, busy work and entertainment goes into this quadrant.
+#### 4\. 不紧急且不重要 → 不做
 
-This is also the order of the priority of your tasks. Yes, important-but-not-urgent tasks come before urgent-but-not-important.
+* 这些任务不值得你花时间，你根本不应该做它们。
+* 避开无意义的活动、忙碌的工作和娱乐都属于该象限的范畴。
 
-Eisenhower matrix is very flexible so it's up to you if you use it for professional tasks, personal ones or both.
+这也是你任务优先级的顺序，没错，重要但不紧急的任务比紧急但不重要的任务更重要。
 
-You can also work with it on different timescales: planning your day vs. generally prioritizing activities in your life.
+艾森豪威尔矩阵非常灵活，取决于你是否将其用于专业任务、个人任务或者以上两种。
 
-### How do you tell urgent tasks from important ones?
+你也可以在不同的时间尺度上使用它：计划你的一天与一般的生活活动的优先次序。
 
-Urgent tasks typically have a clear deadline (e.g. sending a draft to a client) or require you to react in a timely fashion (e.g. emails). Important tasks tend to be aligned with your long-term goals (e.g. exercising) and push your projects forward (e.g. writing code for your side project).
+### 你如何区分紧急任务和重要任务？
 
-Determining urgency and importance will always depend on your context and your ability to recognize what's truly urgent and truly important.
+紧急任务通常有明确的截止日期（如向客户发送草稿）或要求你及时做出回应（如电子邮件）。重要任务往往与你的长期目标相一致（如锻炼身体），并推动你的项目向前发展（如为你的副业项目写代码）。
 
-Example
+确定紧急性和重要性始终取决于你所处的环境，以及你识别什么是真正的紧急或重要事情的能力。
+
+例子
 -------
 
-Here are some examples of activities and tasks that might go into the Eisenhower Matrix:
+下面是一些可能会进入艾森豪威尔矩阵的活动或者任务的例子:
 
 |     |     |     |
 | --- | --- | --- |
-|     | **Urgent** | **Not urgent** |
-| **Important** | _Do:_<br><br>Finish a report that's due  <br>Send draft to client  <br>Fix a bug | _Schedule:_<br><br>Design a new feature  <br>Write a blog post  <br>Exercise |
-| **Not important** | _Delegate/schedule for later_:<br><br>Buy a conference ticket  <br>Schedule an interview  <br>Reply to emails | _Don't do:_<br><br>Attend a meeting with no agenda  <br>Read #random  <br>Check social media |
+|     | **紧急** | **不紧急** |
+| **重要** | _马上执行:_<br><br>完成到期的报告  <br>向客户发送草稿  <br>修复一个 bug | _时间表:_<br><br>设计一个新的功能  <br>写一篇博客  <br>锻炼身体 |
+| **不重要** | _委托/安排在以后执行_:<br><br>购买会议门票  <br>安排面试  <br>回复邮件 | _不要做:_<br><br>参加一个没有议程的会议  <br>阅读 #随意  <br>逛社交媒体 |
 
-Takeaway
+结论
 --------
 
-The promise of the Eisenhower Matrix is to **make you more productive by setting the right priorities and acting on them**. If you're always busy but don't get anywhere on your long-term projects and goals, this tool is definitely for you. But it's also a generally useful tool for deciding what to work on and what to eliminate from your life.
+艾森豪威尔矩阵的宗旨是：**通过设定正确的优先级事项并付诸行动，使你更有效率**。如果你总是很忙，但在你的长期项目和目标上没有取得任何进展，这个工具绝对适合你，但它也是一个普遍有用的工具，可用于决定哪些事情要做，哪些事情要从你的生活中剔除。
 
-Put it to practice
+实践出真知
 ------------------
 
-I created a handy worksheet to help you put this tool into practice. It comes with a simple how-to guide including an example.
+我创建了一个简易的工作表来帮助你学会使用这个工具，它带有一个简单的操作指南，并且包含一个例子。
 
-Print out the PDF or fill it in digitally and use it to better understand systems:
+打印 PDF 或以数字形式填写，能够更好地理解系统：
 
-[Get the worksheet](https://gumroad.com/l/untools-worksheets)
+[获取工作表](https://gumroad.com/l/untools-worksheets)
 
-Preview of the worksheet and guide:
+预览工作表和指南：
 
-![Eisenhower matrix worksheets](./images/eisenhower_matrix_1.png)
+![艾森豪威尔矩阵工作表](./images/eisenhower_matrix_1.png)
 
-### Sources
+### 资料
 
-["How to be More Productive and Eliminate Time Wasting Activities by Using the “Eisenhower Box” " by James Clear](https://jamesclear.com/eisenhower-box)
+[“如何使用‘艾森豪威尔矩阵’提高效率，减少不必要的时间浪费” 作者：James Clear](https://jamesclear.com/eisenhower-box)
 
-["The Eisenhower Matrix" on Todoist](https://todoist.com/productivity-methods/eisenhower-matrix)
+[Todoist 上的“艾森豪威尔矩阵”](https://todoist.com/productivity-methods/eisenhower-matrix)
