@@ -1,60 +1,60 @@
-# Second-order thinking
+# 二阶思维
 
-**Consider the long-term consequences of your decisions.**
+**考虑你的决定所带来的长期后果。**
 
-Some decisions seem like wins at first, but turn out to be losses over time. What seems like an investment now turns out to be a liability later. What looked like a good decision earlier is now a bad one. Second-order thinking is a tool that will help you examine the long-term effects of your decisions.
+随着时间的推移一些看似成功的决定其实最终会是失败的，现在看起来像是投资的东西，后面转成了负债，之前看起来是个好决定，但现在却是个坏决定。二阶思维是一种工具，可以帮助你检查你的决定所带来的长期影响。
 
-Most people stop at first-order thinking. Second-order thinking is necessary to make decisions that will stand the test of time. We need to make sure we're okay with more long-term consequences of our decisions today.
+大多数人止步于一阶思维，要做出经得起时间考验的决定，拥有二阶思维是必要的，我们需要确保能接受我们今天的决定所带来的长期后果。
 
-How to use it?
+如何使用它？
 --------------
 
-Using second-order thinking can be a purely mental exercise or you can write it down on paper.
+使用二阶思维可以是一种纯粹的脑力锻炼，也可以将它写在纸上。
 
-Consider a decision you have to make. Start by looking at the most immediate effects of making this decision – the first order.
+考虑一个你必须要做的决定，从做这个决定的最直接影响开始——第一顺序。
 
-Then for each of the effect ask yourself: "And then what?" That's how you examine the second order of this decision's consequences. You can repeat this for as many orders as you find practical.
+接着针对每一种效果问自己：“然后呢？”这就是你如何检查这个决定的第二顺序，你可以对你认为实用的多个顺序重复这样做。
 
-Alternatively, think about the decision in different timelines. Ask yourself: What will be the consequences of this decision in
+或者，在不同的时间线上考虑这个决定，问问自己：这个决定会带来产生什么样的后果
 
-* 10 minutes? 
-* 10 months?
-* 10 years?
+* 10 分钟？ 
+* 10 个月？
+* 10 年？
 
-This way you can think about the short-term, medium-term and long-term consequences of your decision.
+这样你就可以考虑到你下的决定所带来的的短期、中期和长期后果。
 
-You can apply second-order thinking on big decisions (e.g. buying a house), but also small, seemingly mundane, decisions (e.g. eating a cake). It's a very universal tool that is relevant not just in personal life, but also in business or policy-making.
+你可以将二阶思维应用于大的决定（如买房子），也可以应用于小的或者很平常的决定（如吃蛋糕）。这是一个非常普遍的工具，不仅与个人生活有关，而且与商业或决策有关。
 
-Second-order thinking in practice
+二阶思维实践
 ---------------------------------
 
-Let's explore what second-order thinking looks like in action. Consider the decision of buying a house outside of the city.
+让我们来探索一下二阶思维是怎样的，考虑在城外买房子的决定。
 
-The immediate effects might be having a garden, more space for your family, but also suddenly living an hour away from work.
+直接的影响可能是拥有了一个花园，为家人提供了更多的空间，但离工作地点大概要一小时。
 
-Now look at higher-order consequences of each:
+现在看看它们的高阶结果：
 
-* having a garden → able to grow your produce → having fresh herbs and vegetables
-* more space for family → more rooms to clean → more stress from a messy home 
-* living an hour away from work → need to buy a car → spending two hours of each day in a car
+* 有一个花园 → 能够种植农产品 → 有新鲜的香草和蔬菜
+* 更大的家庭空间 → 更多的房间需要打扫 → 凌乱的家带来更多的压力
+* 住在离工作地一小时的地方 → 需要买一辆车 → 每天花两小时在车里
 
-Obviously, this is just a small subset of consequences for such a big decision, but it shows how second-order thinking can help you see the more long-term consequences. You can now make a more informed and thoughtful decision.
+显然，这只是如此重大决定产生的小部分后果，但它表明二阶思维可以帮助你看到更长远的后果，你现在可以做出更明智和更周到的决定。
 
-Put it to practice
+实践出真知
 ------------------
 
-I created a handy worksheet to help you put this tool into practice. It comes with a simple how-to guide including an example.
+我创建了一个简易的工作表来帮助你学会使用这个工具，它带有一个简单的操作指南，并且包含一个例子。
 
-Print out the PDF or fill it in digitally and use it to make better decisions:
+打印 PDF 或以数字形式填写，能够更好地理解系统：
 
-[Get the worksheet](https://gumroad.com/l/untools-worksheets)
+[获取工作表](https://gumroad.com/l/untools-worksheets)
 
-Preview of the worksheet and guide:
+预览工作表和指南：
 
-![Second-order-thinking worksheet](./images/second_order_thinking_1.png)
+![二阶思维工作表](./images/second_order_thinking_1.png)
 
-### Sources
+### 资料
 
-["Second-order thinking" by Shane Parrish](https://fs.blog/2016/04/second-order-thinking/)
+[“二阶思维” 作者：Shane Parrish](https://fs.blog/2016/04/second-order-thinking/)
 
-["The Most Important Thing" by Howard Marks](https://www.goodreads.com/book/show/10454418-the-most-important-thing)
+[“最重要的事” 作者：Howard Marks](https://www.goodreads.com/book/show/10454418-the-most-important-thing)
