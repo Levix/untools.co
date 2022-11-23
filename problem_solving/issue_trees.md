@@ -1,82 +1,82 @@
-# Issue trees
+# 议题树
 
-**Structure and solve problems in a systematic way.**
+**以系统的方式构造和解决问题。**
 
-Issue trees are basically maps of problems. They give you a clear and systematic way of looking at the problem you need to solve. They help you break down a big problem into smaller, more manageable ones, and prioritize certain parts of the problem. In other words, they're useful for the "divide and conquer" strategy.
+议题树基本上是问题的地图，它们给你提供了一个清晰和系统的方式来看待你需要解决的问题，可以帮助你把一个大问题拆分为更小、更容易处理的问题，并对问题的某部分进行优先级排序。换句话说，它们对于“分而治之”的策略很有用。
 
 ![Example of an issue tree](./images/issue_trees_1.png)
 
-Issue trees are also great for communicating about a problem with others since they provide a map of the problem.
+议题树也是与他人沟通问题的好办法，因为它们提供了问题的地图。
 
-There are two basic kinds of issue trees:
+议题树有两种基本类型：
 
-1.  Problem trees – created by answering "Why?"
-2.  Solution trees – created by answering "How?"
+1.  问题树——回答“为什么？”
+2.  解决方案树——通过回答“如何？”来构造
 
-How to create an issue tree
+如何创建议题树？
 ---------------------------
 
-### Problem tree
+### 问题树
 
-A good issue tree must cover the whole problem. It has to be rigorous. Here are some basic principles for creating an issue tree.
+一个好的问题树必须覆盖整个问题，它必须是严格的，下面是创建问题树的一些基本原则：
 
-1.  Start breaking down the problem into separate categories/branches.
-2.  Use the MECE principle: mutually exclusive, collectively exhaustive. 
-    * Mutually exclusive means there is no overlap between different parts of the tree. Collectively exhaustive means they cover the whole problem.
-3.  Do not go into the small details (specific hypotheses): focus on capturing the broad categories that make up the problem.
-4.  Apply the 80/20 rule: focus on the few parts of the problem that are most impactful.
-    * This is best to base on data, rather than your own hypotheses. 
+1.  开始把问题拆解成不同的类别或分支。
+2.  使用 MECE 原则：相互独立、完全穷尽。
+    * 相互独立意味着树的不同部分之间不存在重叠，完全穷尽意味着它们涵盖了整个问题。
+3.  不要纠缠于小细节（具体的假设）：重点是抓住构成问题的大类。
+4.  运用二八原则：专注于问题中最有影响的那几个部分。
+    * 这最好是基于数据，而不是你自己的假设。
 
-### Solution tree
+### 解决方案树
 
-When you have singled out some specific parts of the problem that you want to focus on, you can follow up with creating a solution tree.
+当你挑选出问题中希望重点关注的某些特定部分后，你可以继续创建解决方案树。
 
-1.  Take the problem part you want to focus on and ask "How might we improve/fix this?"
-2.  Map out potential categories of the solution
-3.  Generate ideas within each category
+1.  针对你想要关注的问题，问“我们该如何改进/修复它？”
+2.  列出解决方案的潜在类别
+3.  在每个类别中产生想法
 
-The advantage of this structured way of thinking is that working with constraints will actually help you generate more ideas.
+这种结构化思维方式的优势在于，在约束条件下工作可以帮助你产生更多想法。
 
-Example
+例子
 -------
 
-Let's see an example of creating an issue tree. Suppose you're working on a product and you're seeing customers not adopting one of your key features. That will be the tree starting point.
+让我们来看一个创建议题树的例子，假设你正在开发一个产品，你看到客户没有采用你的一个关键特性，这就是树的起点。
 
-We'll break it down to smaller branches that cover possible causes:
+我们将把它拆解为更小的分支，涵盖可能的原因：
 
 ![Example of an issue tree](./images/issue_trees_2.png)
 
-* Low adoption of feature X
-    * Customers don't know about the feature.
-    * Customers know about it, but still don't use it.
+* 特性功能 X 的采用率低
+    * 客户不知道这个功能。
+    * 客户知道该功能，但却依然不使用。
 
-For a first level of the tree, it's incredibly basic, but it's actually MECE – it's mutually exclusive yet covers the whole problem.
+对于树的第一层，它是非常基本的，但它实际上是 MECE ——它是相互独立的，但涵盖了整个问题。
 
-Branching out further, we can eventually get this tree:
+进一步扩展分支，我们最终可以得到这棵树：
 
 ![Example of an issue tree](./images/issue_trees_3.png)
 
-* Low adoption of feature X
-    * Customers don't know about the feature
-        * The feature is not discoverable in the product
-        * Customer's don't learn about the feature outside of the product
-    * Customers know about it, but still don't use it
-        * Customers haven't tried it yet
-            * They don't believe the feature can help them
-        * Customers tried it but decided not to use it
-            * The feature is not usable
-            * The feature is not working properly
-            * The feature doesn't support customer needs
+* 特性功能 X 的采用率低
+    * 客户不知道这个功能。
+        * 该功能在产品中无法被发现
+        * 客户不了解产品之外的功能
+    * 客户知道该功能，但却依然不使用。
+        * 客户还没有尝试过
+            * 他们不相信这个功能可以帮助到他们
+        * 客户尝试过，但决定不使用它
+            * 该功能没法使用
+            * 该功能不能正常工作
+            * 该功能不支持客户的需求场景
 
-We could investigate even further, but already we can see which part of the problem to start with. In this case, focusing on the knowledge about the feature should be a high priority – there might be nothing wrong with the feature, customers just don't know about it.
+我们可以进一步分析，但我们已经可以知道从问题的哪一部分开始，在这种情况下，关注相关的功能知识应该是优先级很高的——这个功能可能没有什么问题，只是客户不知道而已。
 
-This is a nice example of how a very simple issue tree can help you break down a problem and give you a starting point for solving it.
+这是一个很好的例子，一个非常简单的议题树可以帮助你拆解分析一个问题，并提供给你一个解决问题的出发点。
 
-Takeaway
+结论
 --------
 
-Issue trees are a great tool for approaching problems systematically by breaking them down. You can create problem issue trees (by asking "why?") or solution issue trees (by asking "how?") depending on where you are in the process of problem-solving.
+议题树是一个很好的工具，可以通过拆解分析问题来进行系统地处理问题，你可以创建问题树（通过问“为什么？”）或解决方案树（通过问“怎么做？”），这取决于你在解决问题的过程中处于什么位置。
 
-### Sources
+### 资料
 
-["The Definitive Guide to Issue Trees" on Crafting Cases](https://www.craftingcases.com/issue-tree-guide/)
+[Crafting Cases 的“议题树权威指南”](https://www.craftingcases.com/issue-tree-guide/)
